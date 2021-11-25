@@ -24,7 +24,7 @@ for tankstelle in tankstellen["features"]:
   gdf = geopandas.read_file(
     belastungf,
     bbox=bbox)
-  print(gdf.ASP_PW)
+  print(max(gdf.ASP_PW))
 
   # only first 10 entries because of speeeeeed
   c += 1
