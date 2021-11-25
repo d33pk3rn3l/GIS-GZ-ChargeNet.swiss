@@ -16,6 +16,7 @@ with open("./Data/clipped_tankstellen.geojson") as jsonFile:
 #print(int(belastung["features"][1]["properties"]["ASP_PW"]))
 #print(buffer["features"][0])
 c=0
+
 for tankstelle in tankstellen["features"]:
   coordinate = tankstelle["geometry"]["coordinates"][0]
   bbox = (coordinate[0]-1000, coordinate[1]-1000, coordinate[0]+1000, coordinate[1]+1000)
@@ -23,7 +24,7 @@ for tankstelle in tankstellen["features"]:
   gdf = geopandas.read_file(
     belastungf,
     bbox=bbox)
-  print(max(gdf.ASP_PW))
+  print(gdf.ASP_PW)
 
   # only first 10 entries because of speeeeeed
   c += 1
