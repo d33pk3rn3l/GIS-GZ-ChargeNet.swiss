@@ -9,7 +9,7 @@ with open("ladestellenbig.json") as jsonFile:
 newi = jsonObject["EVSEData"]
 #print(jsonObject)
 
-newvii = []
+newvii = dict()
 #print(newi[0])
 for x in range(len(newi)):
 
@@ -18,25 +18,25 @@ for x in range(len(newi)):
     for y in range(len(newiii)):
         newiiii = newiii[y]
         newv  = newiiii["ChargingFacilities"]
+        
         if(newv != None):
-            for z in range(len(newv)):
-                newvi = newv[z]
-                for key in newvi:
-                    if(key == "power" and type(newvi["power"]) != str):
-                        if (newvi["power"] >= 50):
-                            a = newiiii['GeoCoordinates']
-                            b = a["Google"]
-                            c = newvi["power"]
-                            d = []
-                            #for b in newvi:
-                            
-                              
-                            newvii.append({b : [c]})
-                            
-                            
-                            #print(newiiii['GeoCoordinates'])
-                            #print(newiiii["ChargingFacilities"])
-#print(newvii)
+          #print(newv[0])
+          for z in range(len(newv)):
+              newvi = newv[z]
+              for key in newvi:
+                  #print(newvi["power"])
+                  #if type(newvi["power"]) == str:
+                    #print(newvi["power"])
+        
+                  if (float(newvi["power"]) >= 50):
+                        a = newiiii['GeoCoordinates']
+                        b = a["Google"]
+                        c = float(newvi["power"])
+                        d = []
+                        if b in newvii:
+                          newvii[b].append(c)
+                        else:
+                          newvii[b] = [c]
 
 with open('cleaned.json', 'w', encoding='utf-8') as f:
     json.dump(newvii, f, ensure_ascii=False, indent=4)
