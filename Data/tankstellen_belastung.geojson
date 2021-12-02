@@ -1,0 +1,5604 @@
+{
+    "type": "FeatureCollection",
+    "name": "clipped_tankstellen",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::2056"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    350,
+                    350,
+                    350,
+                    350
+                ],
+                "max_ASP_PW": 1873.0
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2602840.7997079846,
+                        1204346.4596884595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    350,
+                    350,
+                    350,
+                    350
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2691108.52313734,
+                        1189220.6120303893
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    350,
+                    350,
+                    350,
+                    350
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2555806.579751779,
+                        1186976.3125131896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    350,
+                    350,
+                    350,
+                    350
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2757668.7034036787,
+                        1208827.8232468157
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    350,
+                    350,
+                    350,
+                    350,
+                    350,
+                    350
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2695138.5105061457,
+                        1256161.9984036249
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    350,
+                    350,
+                    350,
+                    350
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2720692.3338823975,
+                        1115732.4260368256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    350,
+                    350,
+                    350,
+                    350
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2691042.5739622256,
+                        1189067.956440668
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    350,
+                    350,
+                    350,
+                    350
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2722546.1048994916,
+                        1118800.642014894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    350,
+                    350,
+                    350,
+                    350,
+                    350,
+                    350
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2660237.3997659995,
+                        1218346.265653284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    350,
+                    350,
+                    350,
+                    350
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2570720.0429690275,
+                        1108552.028698645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2672306.9219453637,
+                        1252365.1019786105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2532742.194843076,
+                        1156534.1341467693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2612136.775816779,
+                        1224964.6546688126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2694542.302353091,
+                        1152292.6534067644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2717243.305864523,
+                        1090302.4282455929
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2690201.2026447346,
+                        1196415.6905272182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2637527.816988931,
+                        1240102.5381963658
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2690641.1407245575,
+                        1286296.18753666
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2623962.79134767,
+                        1128816.02696597
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2618204.379014115,
+                        1263821.2421375841
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2688923.5069704074,
+                        1252036.2352819652
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2607931.22464487,
+                        1193409.0219996425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2570805.565215831,
+                        1108415.2125740433
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2758713.1963289347,
+                        1207989.6413135943
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2627720.7620840347,
+                        1241855.720666068
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2555798.002486704,
+                        1186951.3623554846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2710564.1447035596,
+                        1269401.6104359564
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2686036.6038016225,
+                        1256650.1366460454
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2675001.7012791527,
+                        1250322.1049352027
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2743469.8397192294,
+                        1253145.4893941684
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2693556.665664618,
+                        1248348.8458336105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2690657.905863328,
+                        1232462.1277706316
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2695361.766524753,
+                        1260292.5531475076
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2717935.6854730686,
+                        1112549.1032367782
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2584121.7472216506,
+                        1231572.2929091207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2521305.1044652034,
+                        1147542.5254518702
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2691767.1116592702,
+                        1285919.3957820688
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2752702.251137936,
+                        1175167.8050891568
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2551883.020179423,
+                        1196874.1909603043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2690298.4439356765,
+                        1194451.6741183412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2650029.019894044,
+                        1225050.1798058453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    60,
+                    50,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2596006.1708810837,
+                        1197988.2226890044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    60,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2690684.1175011867,
+                        1209251.7368975081
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    60,
+                    150,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2717220.632002259,
+                        1090324.0064529367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    165,
+                    165
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2752713.5596192447,
+                        1175234.3700035126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2757602.180239142,
+                        1191068.0865593513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2691515.3007513373,
+                        1285467.0809607736
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    80,
+                    80,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2688307.872280044,
+                        1281131.8412225756
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    60,
+                    50,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2672160.234692684,
+                        1252270.1340404416
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    60,
+                    150,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2613530.1723415693,
+                        1230630.1111487972
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    50,
+                    60,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2761331.8751861756,
+                        1260942.4846716342
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    150,
+                    150,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2761320.7165049906,
+                        1260947.9639313284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    50,
+                    60,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2719971.4822496683,
+                        1078795.648540623
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    50,
+                    100,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2720161.160389251,
+                        1078724.3326486228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    60,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2598327.4441633294,
+                        1200135.2424587389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2687264.8483970775,
+                        1251534.752951081
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2682766.405397425,
+                        1244794.3648360262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2613110.1179402173,
+                        1267695.4996845473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    150,
+                    50,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2682510.428470271,
+                        1242432.978551202
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2685422.351863691,
+                        1250921.670314934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2683808.0758428383,
+                        1251494.7203952936
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    150,
+                    50,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2695756.9885572745,
+                        1288536.6818075285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2691788.6900983583,
+                        1152908.7762914374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2618324.805606053,
+                        1263845.0738438768
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    60,
+                    150,
+                    60,
+                    150,
+                    150,
+                    150,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2651028.8559243716,
+                        1226169.6912397759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    50,
+                    150,
+                    60,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2668500.1046070405,
+                        1254545.4526474029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    100,
+                    100,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2609707.44830015,
+                        1213244.6245531999
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2729399.761210609,
+                        1256373.2356592712
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    100,
+                    50,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2719652.81309537,
+                        1081639.7521861033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    50,
+                    60,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2586821.0935535254,
+                        1218798.8322817802
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    60,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2630884.8163322965,
+                        1240009.8109213612
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2560881.0024486277,
+                        1137404.4672234529
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    80,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2697566.2714930996,
+                        1264805.179777677
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    50,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2745360.301853856,
+                        1217911.1111633356
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    50,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2647286.9423777945,
+                        1250276.718519521
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2687482.042472964,
+                        1250281.0069697038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2682124.7882347633,
+                        1245118.6850069505
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2688809.9583554524,
+                        1232573.7596411847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2716122.3174699736,
+                        1093746.199227855
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2738845.128107462,
+                        1249444.4416676862
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    80
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2694270.428504206,
+                        1152278.8290413183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    165,
+                    50,
+                    165
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2566756.50271499,
+                        1117375.6589509356
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    50,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2647490.135228845,
+                        1227571.1746707216
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    50,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2648357.5391312204,
+                        1226643.6921852338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2568851.5295708287,
+                        1207879.135173544
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    100,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2661869.568588834,
+                        1194534.7882456293
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2635971.7531038923,
+                        1240278.918722444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    60,
+                    150,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2634450.313239274,
+                        1240434.1162391284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    60,
+                    60,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2760531.0260722605,
+                        1242253.3040233678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    165,
+                    165,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2552001.2855451223,
+                        1196956.6693574102
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2709351.5907820803,
+                        1114126.4711868055
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    50,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2644124.7201526356,
+                        1241580.038941932
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    60,
+                    60,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2753489.060066497,
+                        1175439.4342980026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    100,
+                    60,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2572108.3674919116,
+                        1107003.6821841118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    100,
+                    100,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2572107.5344968583,
+                        1107007.4657206289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    60,
+                    60,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2572108.7340504723,
+                        1106999.3449624118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    165,
+                    60,
+                    165
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2637339.305075224,
+                        1238429.6191431498
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2611456.0183960986,
+                        1266081.2851338943
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2612758.9015333336,
+                        1265122.3847604347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2638304.353453515,
+                        1240697.428678863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2638298.68293622,
+                        1240697.392108883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2715816.910399274,
+                        1112292.0899665807
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2638292.9353783103,
+                        1240697.5774124276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    60,
+                    150,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2638286.8090696065,
+                        1240697.8714622725
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    165,
+                    50,
+                    165
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2676749.603515741,
+                        1216271.113013982
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    165,
+                    165
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2712826.3536588666,
+                        1263790.7959019209
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    80
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2720695.928820897,
+                        1115710.9273009212
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2637193.7973928275,
+                        1266901.3311362823
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2757331.7199668786,
+                        1190569.3180939388
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2723537.5292371046,
+                        1119192.4978084262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    60,
+                    60,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2629738.0502831144,
+                        1239999.6256099858
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2677208.9199612676,
+                        1243125.0321679749
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    150,
+                    150,
+                    63
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2629554.03850607,
+                        1242924.5656908345
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    80
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2722547.0558662983,
+                        1118787.985827729
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    62,
+                    150,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2628903.445814124,
+                        1242520.1085768885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2613095.7232698738,
+                        1267158.6472838367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2610177.6363589517,
+                        1268803.531481841
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    150,
+                    50,
+                    150
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2573296.633464916,
+                        1174524.9093133875
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    50,
+                    100,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2679489.2503591976,
+                        1249393.1197753036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    100,
+                    50,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2573062.16179279,
+                        1251731.3999629267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    100,
+                    50,
+                    50,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2675492.00454447,
+                        1222326.1082293692
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2602797.143242843,
+                        1204328.8744795066
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2512384.8995708874,
+                        1144577.8901072275
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2618488.7521983935,
+                        1170592.5307023027
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2637148.3794424324,
+                        1266162.6288111592
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2573090.8139034105,
+                        1170239.7469027443
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2501665.7866627313,
+                        1132284.0932247094
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2570794.154737111,
+                        1108437.2788505717
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2637148.8841584893,
+                        1266214.1131751859
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2660174.5412627407,
+                        1218325.0620946605
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2746910.1525821975,
+                        1255240.7085996773
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2722213.186509396,
+                        1222015.0914274412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2722292.818519299,
+                        1222064.9876602248
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2555695.3937789565,
+                        1186880.7504676555
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2593378.997457697,
+                        1224213.635831777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2627905.614229943,
+                        1253176.6103521856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2553547.1682653134,
+                        1199343.8889964977
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2627957.210589183,
+                        1253130.9338957868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2710428.125683313,
+                        1269555.0902066312
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2695139.820529176,
+                        1256127.4365476035
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2602878.624381503,
+                        1200426.2476100589
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2553198.6094531827,
+                        1199441.558554225
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2757669.258777477,
+                        1208806.8190794883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2691042.358694525,
+                        1189067.0637119147
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2577931.337669351,
+                        1185809.6195553418
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2753130.505209133,
+                        1173433.9504827277
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2691108.265468665,
+                        1189217.495017968
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2602813.365127059,
+                        1201638.3141146454
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2758780.330406667,
+                        1207919.8082778158
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2604215.8746766485,
+                        1207267.7407831152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2604179.1360512245,
+                        1207288.83806457
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2751867.32195721,
+                        1211726.8089520724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2559536.744648693,
+                        1142147.2049119254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2765568.992577608,
+                        1258038.2291655242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2754677.8490534853,
+                        1226021.8399711987
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2746138.7954333834,
+                        1255292.6741226662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2721201.304404528,
+                        1257981.4779492153
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2667022.10158663,
+                        1255956.0140934924
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2637566.3724184255,
+                        1240163.8209267824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2548604.7037417684,
+                        1149198.1923122322
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2512321.4972561784,
+                        1144361.4624524857
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2721276.892350525,
+                        1258043.0801369762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2765614.5986512443,
+                        1255881.0101009454
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2740652.319760728,
+                        1252402.789245607
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2572824.684643517,
+                        1251735.7132278904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2692624.2955685314,
+                        1230577.8627043723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2745665.600117504,
+                        1254140.6893457929
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2660358.28359431,
+                        1218041.521740134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2670998.6096323053,
+                        1219147.4676709922
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2671055.5854934244,
+                        1219072.7654975748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2495330.4836721155,
+                        1115044.099410924
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2544109.230403113,
+                        1150700.64246603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2682822.724013167,
+                        1241675.3374826424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2621052.897436073,
+                        1237025.1469364082
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2724735.166675563,
+                        1257851.6632737033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2589238.9383815704,
+                        1214558.311062093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2540146.6362657,
+                        1154707.158224118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2697217.2250236585,
+                        1246213.8656836525
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2627088.012792514,
+                        1241281.7742805434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2533484.463037668,
+                        1169653.0578475818
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2656553.5376120387,
+                        1221736.1615000167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2654491.0345162745,
+                        1223012.0654280875
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2593377.7085662903,
+                        1224213.6372833026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2664468.7911926564,
+                        1209606.5645879528
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2613820.70102796,
+                        1230856.2451228404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2610199.1500376067,
+                        1228064.5298697173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2588146.9544997676,
+                        1222794.8880865478
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2540848.2708203685,
+                        1186571.4112060377
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2593384.5333599173,
+                        1224214.7413591607
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2630452.0653154994,
+                        1242736.756532085
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2610166.229964343,
+                        1215798.0447371579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2497512.8569313325,
+                        1120770.0412304534
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    120,
+                    50,
+                    160,
+                    160
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2589476.304766631,
+                        1217811.7280927142
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    120,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2634500.2255287627,
+                        1240159.3419449327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    120,
+                    50,
+                    160,
+                    160
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2755506.3200930813,
+                        1215800.6819675479
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    120,
+                    50,
+                    160,
+                    160
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2591211.4407792683,
+                        1193220.1012463835
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    50,
+                    50,
+                    50,
+                    50,
+                    300,
+                    300,
+                    300,
+                    300,
+                    50,
+                    50,
+                    50,
+                    50,
+                    300,
+                    300,
+                    300,
+                    300
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2650632.792791142,
+                        1247962.0991563145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    50,
+                    50,
+                    50,
+                    50,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2654474.985287849,
+                        1249331.293111662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2646788.5659529245,
+                        1249510.9149407223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2647266.8906403636,
+                        1249269.543913983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2572005.6080958922,
+                        1106617.6278544303
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2571829.250111619,
+                        1104942.4847275657
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2560178.1079137702,
+                        1137217.4230069937
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2667807.0963214864,
+                        1257153.8224341073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2715704.952962787,
+                        1232077.550112567
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    120,
+                    120,
+                    120,
+                    120
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2561598.01216412,
+                        1129261.06290802
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2548651.9254901344,
+                        1149144.5385798365
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    66,
+                    66,
+                    66,
+                    66,
+                    66,
+                    66,
+                    66,
+                    66
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2719979.3708294095,
+                        1081234.9947063115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2611105.2073792233,
+                        1224706.2781519631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2497046.000944368,
+                        1119068.4502666516
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    160,
+                    160,
+                    100,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2644667.563526805,
+                        1261462.5874933328
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2677134.918743062,
+                        1250207.2828744052
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2570112.9690462714,
+                        1164760.6311703187
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2714319.562178329,
+                        1233356.9742519234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2593140.392624849,
+                        1118597.8883762162
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2576489.4061477426,
+                        1183114.0510525557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2512399.8358751913,
+                        1144579.7850656712
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2578300.3505435074,
+                        1185407.7224741306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2740042.9739418477,
+                        1252379.7784509368
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2651467.926869405,
+                        1248384.238015238
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2756433.1591382646,
+                        1209138.1435116164
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2705813.4801708926,
+                        1147463.317309395
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2571926.802527026,
+                        1105248.0755484751
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2676812.8978497847,
+                        1217115.6979527138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2623954.9362881165,
+                        1128854.3481875733
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2558251.6293503195,
+                        1208449.7050545095
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2612653.209843833,
+                        1181115.2478194267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    160,
+                    160,
+                    160,
+                    160
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2577428.5747215254,
+                        1098848.0200181808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    66,
+                    66,
+                    66,
+                    66
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2688801.1303042867,
+                        1205685.1856667406
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    160,
+                    160,
+                    100,
+                    100,
+                    160,
+                    160,
+                    100,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2505096.1040888913,
+                        1139397.6197634737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2777837.6195935733,
+                        1198571.5157136335
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2756469.563894694,
+                        1223709.3151838246
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2756328.736493137,
+                        1223764.221885723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    175,
+                    175,
+                    175,
+                    175,
+                    175,
+                    175,
+                    175,
+                    175
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2685480.819514361,
+                        1254766.3122196954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2675607.1480558906,
+                        1236123.8556363166
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2675702.994739506,
+                        1236097.0574533031
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": [
+                    60,
+                    60,
+                    60,
+                    60,
+                    60,
+                    60,
+                    60,
+                    60
+                ]
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2773039.8959838743,
+                        1200909.5149171506
+                    ]
+                ]
+            }
+        }
+    ]
+}
