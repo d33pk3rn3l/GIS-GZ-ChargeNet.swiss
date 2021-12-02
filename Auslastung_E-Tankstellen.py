@@ -1,7 +1,7 @@
 import json
 import geopandas
 
-with open("./Data/Belastung_1000m_um_Tankstelle.geojson") as jsonFile:
+with open("./Data/clipped_belastung_1000m_neu.geojson") as jsonFile:
     belastung = geopandas.read_file(jsonFile)
     jsonFile.close()
 
@@ -20,22 +20,22 @@ c=0
 for tankstelle in tankstellen["features"]:
   coordinate = tankstelle["geometry"]["coordinates"][0]
   bbox = (coordinate[0]-1000, coordinate[1]-1000, coordinate[0]+1000, coordinate[1]+1000)
-  belastungf = open("./Data/Belastung_1000m_um_Tankstelle.geojson")
+  belastungf = open("./Data/clipped_belastung_1000m_neu.geojson")
   gdf = geopandas.read_file(
     belastungf,
     bbox=bbox)
-  tankstellen["features"][0]["properties"]["max_ASP_FZG"] = max(gdf.ASP_FZG)
-  tankstellen["features"][0]["properties"]["max_ASP_PW"] = max(gdf.ASP_PW)
-  tankstellen["features"][0]["properties"]["max_ASP_LI"] = max(gdf.ASP_LI)
-  tankstellen["features"][0]["properties"]["max_ASP_LW"] = max(gdf.ASP_LW)
-  tankstellen["features"][0]["properties"]["max_ASP_LZ"] = max(gdf.ASP_LZ)
+  if gdf.empty: print(c + 1, " of ", len(tankstellen["features"]), " bei ", tankstelle, gdf)
+  tankstelle["properties"]["max_ASP_FZG"] = max(gdf.ASP_FZG)
+  tankstelle["properties"]["max_ASP_PW"] = max(gdf.ASP_PW)
+  tankstelle["properties"]["max_ASP_LI"] = max(gdf.ASP_LI)
+  tankstelle["properties"]["max_ASP_LW"] = max(gdf.ASP_LW)
+  tankstelle["properties"]["max_ASP_LZ"] = max(gdf.ASP_LZ)
   print(c + 1, " of ", len(tankstellen["features"]))
 
- 
-
+  
   # only first 10 entries because of speeeeeed
   c += 1
-  if c == 10: break
+  #if c == 10: break
 
 with open('./Data/tankstellen_belastung.geojson', 'w', encoding='utf-8') as f:
     json.dump(tankstellen, f, ensure_ascii=False, indent=4)

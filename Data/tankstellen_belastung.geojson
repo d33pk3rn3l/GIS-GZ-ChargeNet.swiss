@@ -17,11 +17,11 @@
                     350,
                     350
                 ],
-                "max_ASP_FZG": 2279.0,
-                "max_ASP_PW": 1873.0,
-                "max_ASP_LI": 280.0,
-                "max_ASP_LW": 59.0,
-                "max_ASP_LZ": 67.0
+                "max_ASP_FZG": 4565.0,
+                "max_ASP_PW": 3867.0,
+                "max_ASP_LI": 427.0,
+                "max_ASP_LW": 145.0,
+                "max_ASP_LZ": 233.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -41,7 +41,12 @@
                     350,
                     350,
                     350
-                ]
+                ],
+                "max_ASP_FZG": 1078.0,
+                "max_ASP_PW": 919.0,
+                "max_ASP_LI": 76.0,
+                "max_ASP_LW": 75.0,
+                "max_ASP_LZ": 120.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -61,7 +66,12 @@
                     350,
                     350,
                     350
-                ]
+                ],
+                "max_ASP_FZG": 1231.0,
+                "max_ASP_PW": 1099.0,
+                "max_ASP_LI": 110.0,
+                "max_ASP_LW": 38.0,
+                "max_ASP_LZ": 81.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -81,7 +91,12 @@
                     350,
                     350,
                     350
-                ]
+                ],
+                "max_ASP_FZG": 2210.0,
+                "max_ASP_PW": 1752.0,
+                "max_ASP_LI": 336.0,
+                "max_ASP_LW": 61.0,
+                "max_ASP_LZ": 62.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -103,7 +118,12 @@
                     350,
                     350,
                     350
-                ]
+                ],
+                "max_ASP_FZG": 3946.0,
+                "max_ASP_PW": 3330.0,
+                "max_ASP_LI": 317.0,
+                "max_ASP_LW": 121.0,
+                "max_ASP_LZ": 178.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -123,7 +143,12 @@
                     350,
                     350,
                     350
-                ]
+                ],
+                "max_ASP_FZG": 2224.0,
+                "max_ASP_PW": 1639.0,
+                "max_ASP_LI": 429.0,
+                "max_ASP_LW": 105.0,
+                "max_ASP_LZ": 151.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -143,7 +168,12 @@
                     350,
                     350,
                     350
-                ]
+                ],
+                "max_ASP_FZG": 1078.0,
+                "max_ASP_PW": 919.0,
+                "max_ASP_LI": 76.0,
+                "max_ASP_LW": 75.0,
+                "max_ASP_LZ": 120.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -163,7 +193,12 @@
                     350,
                     350,
                     350
-                ]
+                ],
+                "max_ASP_FZG": 2224.0,
+                "max_ASP_PW": 1639.0,
+                "max_ASP_LI": 545.0,
+                "max_ASP_LW": 105.0,
+                "max_ASP_LZ": 151.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -185,7 +220,12 @@
                     350,
                     350,
                     350
-                ]
+                ],
+                "max_ASP_FZG": 3205.0,
+                "max_ASP_PW": 2757.0,
+                "max_ASP_LI": 244.0,
+                "max_ASP_LW": 90.0,
+                "max_ASP_LZ": 164.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -205,7 +245,12 @@
                     350,
                     350,
                     350
-                ]
+                ],
+                "max_ASP_FZG": 2279.0,
+                "max_ASP_PW": 1873.0,
+                "max_ASP_LI": 280.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 67.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -269,7 +314,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 4812.0,
+                "max_ASP_PW": 4083.0,
+                "max_ASP_LI": 714.0,
+                "max_ASP_LW": 162.0,
+                "max_ASP_LZ": 216.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -313,7 +363,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 5818.0,
+                "max_ASP_PW": 5139.0,
+                "max_ASP_LI": 488.0,
+                "max_ASP_LW": 152.0,
+                "max_ASP_LZ": 127.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -353,7 +408,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2949.0,
+                "max_ASP_PW": 2226.0,
+                "max_ASP_LI": 386.0,
+                "max_ASP_LW": 120.0,
+                "max_ASP_LZ": 217.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -389,7 +449,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 971.0,
+                "max_ASP_PW": 444.0,
+                "max_ASP_LI": 363.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 120.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -425,7 +490,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 3737.0,
+                "max_ASP_PW": 3122.0,
+                "max_ASP_LI": 411.0,
+                "max_ASP_LW": 123.0,
+                "max_ASP_LZ": 144.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -453,7 +523,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 1486.0,
+                "max_ASP_PW": 1241.0,
+                "max_ASP_LI": 126.0,
+                "max_ASP_LW": 57.0,
+                "max_ASP_LZ": 62.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -497,7 +572,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 3738.0,
+                "max_ASP_PW": 3157.0,
+                "max_ASP_LI": 261.0,
+                "max_ASP_LW": 122.0,
+                "max_ASP_LZ": 198.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -529,7 +609,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 1374.0,
+                "max_ASP_PW": 1200.0,
+                "max_ASP_LI": 215.0,
+                "max_ASP_LW": 29.0,
+                "max_ASP_LZ": 68.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -561,7 +646,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 1592.0,
+                "max_ASP_PW": 1343.0,
+                "max_ASP_LI": 144.0,
+                "max_ASP_LW": 62.0,
+                "max_ASP_LZ": 43.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -597,7 +687,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 5008.0,
+                "max_ASP_PW": 4150.0,
+                "max_ASP_LI": 501.0,
+                "max_ASP_LW": 166.0,
+                "max_ASP_LZ": 260.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -629,7 +724,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 6234.0,
+                "max_ASP_PW": 5447.0,
+                "max_ASP_LI": 461.0,
+                "max_ASP_LW": 144.0,
+                "max_ASP_LZ": 182.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -677,7 +777,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 3730.0,
+                "max_ASP_PW": 3010.0,
+                "max_ASP_LI": 582.0,
+                "max_ASP_LW": 90.0,
+                "max_ASP_LZ": 47.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -709,7 +814,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2279.0,
+                "max_ASP_PW": 1873.0,
+                "max_ASP_LI": 280.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 67.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -753,7 +863,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2340.0,
+                "max_ASP_PW": 1898.0,
+                "max_ASP_LI": 336.0,
+                "max_ASP_LW": 63.0,
+                "max_ASP_LZ": 62.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -789,7 +904,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2715.0,
+                "max_ASP_PW": 2297.0,
+                "max_ASP_LI": 151.0,
+                "max_ASP_LW": 123.0,
+                "max_ASP_LZ": 233.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -825,7 +945,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 1231.0,
+                "max_ASP_PW": 1099.0,
+                "max_ASP_LI": 110.0,
+                "max_ASP_LW": 38.0,
+                "max_ASP_LZ": 81.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -843,7 +968,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2123.0,
+                "max_ASP_PW": 1884.0,
+                "max_ASP_LI": 278.0,
+                "max_ASP_LW": 46.0,
+                "max_ASP_LZ": 61.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -861,7 +991,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 4638.0,
+                "max_ASP_PW": 4035.0,
+                "max_ASP_LI": 834.0,
+                "max_ASP_LW": 152.0,
+                "max_ASP_LZ": 52.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -879,7 +1014,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 4038.0,
+                "max_ASP_PW": 3512.0,
+                "max_ASP_LI": 437.0,
+                "max_ASP_LW": 120.0,
+                "max_ASP_LZ": 111.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -897,7 +1037,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3738.0,
+                "max_ASP_PW": 3357.0,
+                "max_ASP_LI": 197.0,
+                "max_ASP_LW": 74.0,
+                "max_ASP_LZ": 110.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -915,7 +1060,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3154.0,
+                "max_ASP_PW": 2769.0,
+                "max_ASP_LI": 341.0,
+                "max_ASP_LW": 76.0,
+                "max_ASP_LZ": 46.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -933,7 +1083,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3186.0,
+                "max_ASP_PW": 2819.0,
+                "max_ASP_LI": 322.0,
+                "max_ASP_LW": 67.0,
+                "max_ASP_LZ": 53.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -951,7 +1106,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3946.0,
+                "max_ASP_PW": 3330.0,
+                "max_ASP_LI": 333.0,
+                "max_ASP_LW": 123.0,
+                "max_ASP_LZ": 178.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -969,7 +1129,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2231.0,
+                "max_ASP_PW": 1807.0,
+                "max_ASP_LI": 522.0,
+                "max_ASP_LW": 109.0,
+                "max_ASP_LZ": 145.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -987,7 +1152,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1497.0,
+                "max_ASP_PW": 1337.0,
+                "max_ASP_LI": 135.0,
+                "max_ASP_LW": 40.0,
+                "max_ASP_LZ": 28.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1005,7 +1175,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3652.0,
+                "max_ASP_PW": 3035.0,
+                "max_ASP_LI": 498.0,
+                "max_ASP_LW": 60.0,
+                "max_ASP_LZ": 59.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1023,7 +1198,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1794.0,
+                "max_ASP_PW": 1545.0,
+                "max_ASP_LI": 144.0,
+                "max_ASP_LW": 48.0,
+                "max_ASP_LZ": 121.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1041,7 +1221,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 809.0,
+                "max_ASP_PW": 677.0,
+                "max_ASP_LI": 118.0,
+                "max_ASP_LW": 22.0,
+                "max_ASP_LZ": 31.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1059,7 +1244,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1426.0,
+                "max_ASP_PW": 1283.0,
+                "max_ASP_LI": 117.0,
+                "max_ASP_LW": 24.0,
+                "max_ASP_LZ": 21.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1077,7 +1267,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1461.0,
+                "max_ASP_PW": 1226.0,
+                "max_ASP_LI": 118.0,
+                "max_ASP_LW": 57.0,
+                "max_ASP_LZ": 120.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1095,7 +1290,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2404.0,
+                "max_ASP_PW": 2102.0,
+                "max_ASP_LI": 202.0,
+                "max_ASP_LW": 82.0,
+                "max_ASP_LZ": 166.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1115,7 +1315,12 @@
                     60,
                     50,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 2870.0,
+                "max_ASP_PW": 2530.0,
+                "max_ASP_LI": 265.0,
+                "max_ASP_LW": 75.0,
+                "max_ASP_LZ": 84.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1134,7 +1339,12 @@
                     50,
                     60,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 1740.0,
+                "max_ASP_PW": 1257.0,
+                "max_ASP_LI": 340.0,
+                "max_ASP_LW": 97.0,
+                "max_ASP_LZ": 46.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1154,7 +1364,12 @@
                     60,
                     150,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 3737.0,
+                "max_ASP_PW": 3122.0,
+                "max_ASP_LI": 411.0,
+                "max_ASP_LW": 123.0,
+                "max_ASP_LZ": 144.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1173,7 +1388,12 @@
                     50,
                     165,
                     165
-                ]
+                ],
+                "max_ASP_FZG": 809.0,
+                "max_ASP_PW": 677.0,
+                "max_ASP_LI": 118.0,
+                "max_ASP_LW": 22.0,
+                "max_ASP_LZ": 31.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1191,7 +1411,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2191.0,
+                "max_ASP_PW": 1918.0,
+                "max_ASP_LI": 432.0,
+                "max_ASP_LW": 69.0,
+                "max_ASP_LZ": 45.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1209,7 +1434,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1794.0,
+                "max_ASP_PW": 1545.0,
+                "max_ASP_LI": 149.0,
+                "max_ASP_LW": 48.0,
+                "max_ASP_LZ": 121.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1229,7 +1459,12 @@
                     80,
                     80,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 2588.0,
+                "max_ASP_PW": 2188.0,
+                "max_ASP_LI": 314.0,
+                "max_ASP_LW": 60.0,
+                "max_ASP_LZ": 69.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1249,7 +1484,12 @@
                     60,
                     50,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 4812.0,
+                "max_ASP_PW": 4083.0,
+                "max_ASP_LI": 714.0,
+                "max_ASP_LW": 162.0,
+                "max_ASP_LZ": 216.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1269,7 +1509,12 @@
                     60,
                     150,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3614.0,
+                "max_ASP_PW": 2759.0,
+                "max_ASP_LI": 463.0,
+                "max_ASP_LW": 156.0,
+                "max_ASP_LZ": 236.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1289,7 +1534,12 @@
                     50,
                     60,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2319.0,
+                "max_ASP_PW": 2162.0,
+                "max_ASP_LI": 266.0,
+                "max_ASP_LW": 36.0,
+                "max_ASP_LZ": 97.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1309,7 +1559,12 @@
                     150,
                     150,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2319.0,
+                "max_ASP_PW": 2162.0,
+                "max_ASP_LI": 266.0,
+                "max_ASP_LW": 36.0,
+                "max_ASP_LZ": 97.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1329,7 +1584,12 @@
                     50,
                     60,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 3241.0,
+                "max_ASP_PW": 2566.0,
+                "max_ASP_LI": 615.0,
+                "max_ASP_LW": 66.0,
+                "max_ASP_LZ": 137.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1349,7 +1609,12 @@
                     50,
                     100,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 3241.0,
+                "max_ASP_PW": 2566.0,
+                "max_ASP_LI": 615.0,
+                "max_ASP_LW": 66.0,
+                "max_ASP_LZ": 137.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1369,7 +1634,12 @@
                     60,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 5447.0,
+                "max_ASP_PW": 4825.0,
+                "max_ASP_LI": 299.0,
+                "max_ASP_LW": 132.0,
+                "max_ASP_LZ": 191.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1387,7 +1657,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 6506.0,
+                "max_ASP_PW": 5643.0,
+                "max_ASP_LI": 527.0,
+                "max_ASP_LW": 154.0,
+                "max_ASP_LZ": 184.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1405,7 +1680,12 @@
                 "power": [
                     60,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3287.0,
+                "max_ASP_PW": 2989.0,
+                "max_ASP_LI": 205.0,
+                "max_ASP_LW": 70.0,
+                "max_ASP_LZ": 23.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1424,7 +1704,12 @@
                     50,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 5533.0,
+                "max_ASP_PW": 4903.0,
+                "max_ASP_LI": 207.0,
+                "max_ASP_LW": 176.0,
+                "max_ASP_LZ": 247.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1444,7 +1729,12 @@
                     150,
                     50,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 3616.0,
+                "max_ASP_PW": 3200.0,
+                "max_ASP_LI": 384.0,
+                "max_ASP_LW": 70.0,
+                "max_ASP_LZ": 48.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1462,7 +1752,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 6506.0,
+                "max_ASP_PW": 5643.0,
+                "max_ASP_LI": 527.0,
+                "max_ASP_LW": 154.0,
+                "max_ASP_LZ": 184.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1480,7 +1775,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 5169.0,
+                "max_ASP_PW": 4711.0,
+                "max_ASP_LI": 300.0,
+                "max_ASP_LW": 124.0,
+                "max_ASP_LZ": 34.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1500,7 +1800,12 @@
                     150,
                     50,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 1671.0,
+                "max_ASP_PW": 1426.0,
+                "max_ASP_LI": 255.0,
+                "max_ASP_LW": 47.0,
+                "max_ASP_LZ": 123.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1518,7 +1823,12 @@
                 "power": [
                     100,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 971.0,
+                "max_ASP_PW": 444.0,
+                "max_ASP_LI": 363.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 120.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1536,7 +1846,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 5008.0,
+                "max_ASP_PW": 4150.0,
+                "max_ASP_LI": 501.0,
+                "max_ASP_LW": 166.0,
+                "max_ASP_LZ": 260.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1560,7 +1875,12 @@
                     150,
                     150,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2939.0,
+                "max_ASP_PW": 2447.0,
+                "max_ASP_LI": 284.0,
+                "max_ASP_LW": 97.0,
+                "max_ASP_LZ": 169.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1581,7 +1901,12 @@
                     150,
                     60,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 4722.0,
+                "max_ASP_PW": 4074.0,
+                "max_ASP_LI": 381.0,
+                "max_ASP_LW": 134.0,
+                "max_ASP_LZ": 205.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1601,7 +1926,12 @@
                     100,
                     100,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3329.0,
+                "max_ASP_PW": 2747.0,
+                "max_ASP_LI": 326.0,
+                "max_ASP_LW": 109.0,
+                "max_ASP_LZ": 211.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1619,7 +1949,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3130.0,
+                "max_ASP_PW": 2604.0,
+                "max_ASP_LI": 307.0,
+                "max_ASP_LW": 96.0,
+                "max_ASP_LZ": 136.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1639,7 +1974,12 @@
                     100,
                     50,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 3558.0,
+                "max_ASP_PW": 3122.0,
+                "max_ASP_LI": 549.0,
+                "max_ASP_LW": 86.0,
+                "max_ASP_LZ": 143.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1659,7 +1999,12 @@
                     50,
                     60,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 1741.0,
+                "max_ASP_PW": 1488.0,
+                "max_ASP_LI": 178.0,
+                "max_ASP_LW": 48.0,
+                "max_ASP_LZ": 35.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1679,7 +2024,12 @@
                     150,
                     60,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3814.0,
+                "max_ASP_PW": 3036.0,
+                "max_ASP_LI": 314.0,
+                "max_ASP_LW": 154.0,
+                "max_ASP_LZ": 310.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1697,7 +2047,12 @@
                 "power": [
                     60,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 3406.0,
+                "max_ASP_PW": 2819.0,
+                "max_ASP_LI": 448.0,
+                "max_ASP_LW": 123.0,
+                "max_ASP_LZ": 91.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1715,7 +2070,12 @@
                 "power": [
                     80,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3763.0,
+                "max_ASP_PW": 3240.0,
+                "max_ASP_LI": 304.0,
+                "max_ASP_LW": 107.0,
+                "max_ASP_LZ": 169.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1734,7 +2094,12 @@
                     100,
                     50,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 1873.0,
+                "max_ASP_PW": 1595.0,
+                "max_ASP_LI": 212.0,
+                "max_ASP_LW": 41.0,
+                "max_ASP_LZ": 40.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1753,7 +2118,12 @@
                     150,
                     50,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2099.0,
+                "max_ASP_PW": 1771.0,
+                "max_ASP_LI": 338.0,
+                "max_ASP_LW": 75.0,
+                "max_ASP_LZ": 45.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1771,7 +2141,12 @@
                 "power": [
                     60,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 3255.0,
+                "max_ASP_PW": 2790.0,
+                "max_ASP_LI": 403.0,
+                "max_ASP_LW": 50.0,
+                "max_ASP_LZ": 12.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1789,7 +2164,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3287.0,
+                "max_ASP_PW": 2989.0,
+                "max_ASP_LI": 205.0,
+                "max_ASP_LW": 70.0,
+                "max_ASP_LZ": 23.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1808,7 +2188,12 @@
                     50,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 3272.0,
+                "max_ASP_PW": 3039.0,
+                "max_ASP_LI": 195.0,
+                "max_ASP_LW": 53.0,
+                "max_ASP_LZ": 43.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1826,7 +2211,12 @@
                 "power": [
                     60,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 3737.0,
+                "max_ASP_PW": 3061.0,
+                "max_ASP_LI": 449.0,
+                "max_ASP_LW": 123.0,
+                "max_ASP_LZ": 144.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1844,7 +2234,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1575.0,
+                "max_ASP_PW": 1427.0,
+                "max_ASP_LI": 145.0,
+                "max_ASP_LW": 26.0,
+                "max_ASP_LZ": 14.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1862,7 +2257,12 @@
                 "power": [
                     60,
                     80
-                ]
+                ],
+                "max_ASP_FZG": 971.0,
+                "max_ASP_PW": 444.0,
+                "max_ASP_LI": 363.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 120.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1881,7 +2281,12 @@
                     165,
                     50,
                     165
-                ]
+                ],
+                "max_ASP_FZG": 2279.0,
+                "max_ASP_PW": 1889.0,
+                "max_ASP_LI": 280.0,
+                "max_ASP_LW": 66.0,
+                "max_ASP_LZ": 68.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1901,7 +2306,12 @@
                     150,
                     50,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2404.0,
+                "max_ASP_PW": 2023.0,
+                "max_ASP_LI": 190.0,
+                "max_ASP_LW": 82.0,
+                "max_ASP_LZ": 166.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1921,7 +2331,12 @@
                     50,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2404.0,
+                "max_ASP_PW": 2023.0,
+                "max_ASP_LI": 190.0,
+                "max_ASP_LW": 82.0,
+                "max_ASP_LZ": 166.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1939,7 +2354,12 @@
                 "power": [
                     150,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 2083.0,
+                "max_ASP_PW": 1816.0,
+                "max_ASP_LI": 194.0,
+                "max_ASP_LW": 52.0,
+                "max_ASP_LZ": 37.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1958,7 +2378,12 @@
                     100,
                     100,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1459.0,
+                "max_ASP_PW": 1296.0,
+                "max_ASP_LI": 122.0,
+                "max_ASP_LW": 38.0,
+                "max_ASP_LZ": 15.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1976,7 +2401,12 @@
                 "power": [
                     60,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 4409.0,
+                "max_ASP_PW": 3659.0,
+                "max_ASP_LI": 262.0,
+                "max_ASP_LW": 166.0,
+                "max_ASP_LZ": 322.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -1996,7 +2426,12 @@
                     60,
                     150,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 4409.0,
+                "max_ASP_PW": 3659.0,
+                "max_ASP_LI": 314.0,
+                "max_ASP_LW": 166.0,
+                "max_ASP_LZ": 322.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2016,7 +2451,12 @@
                     60,
                     60,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2550.0,
+                "max_ASP_PW": 2134.0,
+                "max_ASP_LI": 275.0,
+                "max_ASP_LW": 67.0,
+                "max_ASP_LZ": 75.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2035,7 +2475,12 @@
                     165,
                     165,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 1426.0,
+                "max_ASP_PW": 1283.0,
+                "max_ASP_LI": 117.0,
+                "max_ASP_LW": 24.0,
+                "max_ASP_LZ": 21.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2054,7 +2499,12 @@
                     50,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2107.0,
+                "max_ASP_PW": 1740.0,
+                "max_ASP_LI": 270.0,
+                "max_ASP_LW": 83.0,
+                "max_ASP_LZ": 17.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2073,7 +2523,12 @@
                     60,
                     50,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 3270.0,
+                "max_ASP_PW": 2812.0,
+                "max_ASP_LI": 219.0,
+                "max_ASP_LW": 100.0,
+                "max_ASP_LZ": 184.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2093,7 +2548,12 @@
                     60,
                     60,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 809.0,
+                "max_ASP_PW": 677.0,
+                "max_ASP_LI": 118.0,
+                "max_ASP_LW": 22.0,
+                "max_ASP_LZ": 31.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2113,7 +2573,12 @@
                     100,
                     60,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 2279.0,
+                "max_ASP_PW": 1873.0,
+                "max_ASP_LI": 286.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 67.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2133,7 +2598,12 @@
                     100,
                     100,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 2279.0,
+                "max_ASP_PW": 1873.0,
+                "max_ASP_LI": 286.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 67.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2153,7 +2623,12 @@
                     60,
                     60,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 2279.0,
+                "max_ASP_PW": 1873.0,
+                "max_ASP_LI": 286.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 67.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2172,7 +2647,12 @@
                     165,
                     60,
                     165
-                ]
+                ],
+                "max_ASP_FZG": 3415.0,
+                "max_ASP_PW": 2901.0,
+                "max_ASP_LI": 310.0,
+                "max_ASP_LW": 99.0,
+                "max_ASP_LZ": 213.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2190,7 +2670,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2587.0,
+                "max_ASP_PW": 2289.0,
+                "max_ASP_LI": 207.0,
+                "max_ASP_LW": 82.0,
+                "max_ASP_LZ": 26.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2208,7 +2693,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2587.0,
+                "max_ASP_PW": 2289.0,
+                "max_ASP_LI": 349.0,
+                "max_ASP_LW": 82.0,
+                "max_ASP_LZ": 26.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2226,7 +2716,12 @@
                 "power": [
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 3270.0,
+                "max_ASP_PW": 2812.0,
+                "max_ASP_LI": 219.0,
+                "max_ASP_LW": 100.0,
+                "max_ASP_LZ": 184.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2244,7 +2739,12 @@
                 "power": [
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 3270.0,
+                "max_ASP_PW": 2812.0,
+                "max_ASP_LI": 219.0,
+                "max_ASP_LW": 100.0,
+                "max_ASP_LZ": 184.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2262,7 +2762,12 @@
                 "power": [
                     60,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 2366.0,
+                "max_ASP_PW": 2033.0,
+                "max_ASP_LI": 214.0,
+                "max_ASP_LW": 116.0,
+                "max_ASP_LZ": 145.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2280,7 +2785,12 @@
                 "power": [
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 3270.0,
+                "max_ASP_PW": 2812.0,
+                "max_ASP_LI": 219.0,
+                "max_ASP_LW": 100.0,
+                "max_ASP_LZ": 184.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2300,7 +2810,12 @@
                     60,
                     150,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 3270.0,
+                "max_ASP_PW": 2812.0,
+                "max_ASP_LI": 219.0,
+                "max_ASP_LW": 100.0,
+                "max_ASP_LZ": 184.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2319,7 +2834,12 @@
                     165,
                     50,
                     165
-                ]
+                ],
+                "max_ASP_FZG": 2238.0,
+                "max_ASP_PW": 1819.0,
+                "max_ASP_LI": 280.0,
+                "max_ASP_LW": 84.0,
+                "max_ASP_LZ": 55.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2338,7 +2858,12 @@
                     50,
                     165,
                     165
-                ]
+                ],
+                "max_ASP_FZG": 2431.0,
+                "max_ASP_PW": 2107.0,
+                "max_ASP_LI": 204.0,
+                "max_ASP_LW": 60.0,
+                "max_ASP_LZ": 125.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2356,7 +2881,12 @@
                 "power": [
                     60,
                     80
-                ]
+                ],
+                "max_ASP_FZG": 2224.0,
+                "max_ASP_PW": 1639.0,
+                "max_ASP_LI": 429.0,
+                "max_ASP_LW": 105.0,
+                "max_ASP_LZ": 151.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2374,7 +2904,12 @@
                 "power": [
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2111.0,
+                "max_ASP_PW": 1841.0,
+                "max_ASP_LI": 129.0,
+                "max_ASP_LW": 53.0,
+                "max_ASP_LZ": 99.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2393,7 +2928,12 @@
                     150,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2191.0,
+                "max_ASP_PW": 1918.0,
+                "max_ASP_LI": 432.0,
+                "max_ASP_LW": 69.0,
+                "max_ASP_LZ": 45.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2411,7 +2951,12 @@
                 "power": [
                     100,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 2224.0,
+                "max_ASP_PW": 1659.0,
+                "max_ASP_LI": 545.0,
+                "max_ASP_LW": 105.0,
+                "max_ASP_LZ": 151.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2431,7 +2976,12 @@
                     60,
                     60,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 3814.0,
+                "max_ASP_PW": 3036.0,
+                "max_ASP_LI": 314.0,
+                "max_ASP_LW": 154.0,
+                "max_ASP_LZ": 310.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2450,7 +3000,12 @@
                     50,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 3787.0,
+                "max_ASP_PW": 3343.0,
+                "max_ASP_LI": 292.0,
+                "max_ASP_LW": 100.0,
+                "max_ASP_LZ": 106.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2469,7 +3024,12 @@
                     150,
                     150,
                     63
-                ]
+                ],
+                "max_ASP_FZG": 2303.0,
+                "max_ASP_PW": 1969.0,
+                "max_ASP_LI": 163.0,
+                "max_ASP_LW": 62.0,
+                "max_ASP_LZ": 197.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2487,7 +3047,12 @@
                 "power": [
                     60,
                     80
-                ]
+                ],
+                "max_ASP_FZG": 2224.0,
+                "max_ASP_PW": 1639.0,
+                "max_ASP_LI": 545.0,
+                "max_ASP_LW": 105.0,
+                "max_ASP_LZ": 151.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2506,7 +3071,12 @@
                     62,
                     150,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2303.0,
+                "max_ASP_PW": 1969.0,
+                "max_ASP_LI": 151.0,
+                "max_ASP_LW": 62.0,
+                "max_ASP_LZ": 197.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2524,7 +3094,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 4406.0,
+                "max_ASP_PW": 3836.0,
+                "max_ASP_LI": 185.0,
+                "max_ASP_LW": 139.0,
+                "max_ASP_LZ": 247.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2542,7 +3117,12 @@
                 "power": [
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3694.0,
+                "max_ASP_PW": 3125.0,
+                "max_ASP_LI": 325.0,
+                "max_ASP_LW": 124.0,
+                "max_ASP_LZ": 120.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2562,7 +3142,12 @@
                     150,
                     50,
                     150
-                ]
+                ],
+                "max_ASP_FZG": 2447.0,
+                "max_ASP_PW": 2182.0,
+                "max_ASP_LI": 148.0,
+                "max_ASP_LW": 51.0,
+                "max_ASP_LZ": 66.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2582,7 +3167,12 @@
                     50,
                     100,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 2398.0,
+                "max_ASP_PW": 2056.0,
+                "max_ASP_LI": 218.0,
+                "max_ASP_LW": 99.0,
+                "max_ASP_LZ": 32.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2602,7 +3192,12 @@
                     100,
                     50,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 1163.0,
+                "max_ASP_PW": 1101.0,
+                "max_ASP_LI": 100.0,
+                "max_ASP_LW": 10.0,
+                "max_ASP_LZ": 11.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2622,7 +3217,12 @@
                     50,
                     50,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 3332.0,
+                "max_ASP_PW": 2964.0,
+                "max_ASP_LI": 351.0,
+                "max_ASP_LW": 104.0,
+                "max_ASP_LZ": 80.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2654,7 +3254,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 4565.0,
+                "max_ASP_PW": 3867.0,
+                "max_ASP_LI": 427.0,
+                "max_ASP_LW": 145.0,
+                "max_ASP_LZ": 233.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2694,7 +3299,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3502.0,
+                "max_ASP_PW": 2981.0,
+                "max_ASP_LI": 407.0,
+                "max_ASP_LW": 61.0,
+                "max_ASP_LZ": 54.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2718,7 +3328,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1762.0,
+                "max_ASP_PW": 1515.0,
+                "max_ASP_LI": 201.0,
+                "max_ASP_LW": 46.0,
+                "max_ASP_LZ": 15.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2754,7 +3369,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2111.0,
+                "max_ASP_PW": 1841.0,
+                "max_ASP_LI": 129.0,
+                "max_ASP_LW": 53.0,
+                "max_ASP_LZ": 99.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2786,7 +3406,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2083.0,
+                "max_ASP_PW": 1842.0,
+                "max_ASP_LI": 125.0,
+                "max_ASP_LW": 51.0,
+                "max_ASP_LZ": 64.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2810,7 +3435,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3702.0,
+                "max_ASP_PW": 3140.0,
+                "max_ASP_LI": 468.0,
+                "max_ASP_LW": 47.0,
+                "max_ASP_LZ": 48.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2834,7 +3464,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2279.0,
+                "max_ASP_PW": 1873.0,
+                "max_ASP_LI": 280.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 67.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2870,7 +3505,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2111.0,
+                "max_ASP_PW": 1841.0,
+                "max_ASP_LI": 129.0,
+                "max_ASP_LW": 53.0,
+                "max_ASP_LZ": 99.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2902,7 +3542,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3205.0,
+                "max_ASP_PW": 2757.0,
+                "max_ASP_LI": 244.0,
+                "max_ASP_LW": 90.0,
+                "max_ASP_LZ": 164.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2926,7 +3571,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3705.0,
+                "max_ASP_PW": 3352.0,
+                "max_ASP_LI": 181.0,
+                "max_ASP_LW": 83.0,
+                "max_ASP_LZ": 99.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -2966,7 +3616,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2394.0,
+                "max_ASP_PW": 1865.0,
+                "max_ASP_LI": 411.0,
+                "max_ASP_LW": 69.0,
+                "max_ASP_LZ": 48.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3006,7 +3661,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2394.0,
+                "max_ASP_PW": 1865.0,
+                "max_ASP_LI": 411.0,
+                "max_ASP_LW": 69.0,
+                "max_ASP_LZ": 48.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3046,7 +3706,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1231.0,
+                "max_ASP_PW": 1099.0,
+                "max_ASP_LI": 110.0,
+                "max_ASP_LW": 38.0,
+                "max_ASP_LZ": 81.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3070,7 +3735,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1046.0,
+                "max_ASP_PW": 846.0,
+                "max_ASP_LI": 140.0,
+                "max_ASP_LW": 41.0,
+                "max_ASP_LZ": 30.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3094,7 +3764,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2672.0,
+                "max_ASP_PW": 2274.0,
+                "max_ASP_LI": 121.0,
+                "max_ASP_LW": 74.0,
+                "max_ASP_LZ": 202.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3114,7 +3789,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1747.0,
+                "max_ASP_PW": 1618.0,
+                "max_ASP_LI": 126.0,
+                "max_ASP_LW": 28.0,
+                "max_ASP_LZ": 21.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3138,7 +3818,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2672.0,
+                "max_ASP_PW": 2274.0,
+                "max_ASP_LI": 121.0,
+                "max_ASP_LW": 74.0,
+                "max_ASP_LZ": 202.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3162,7 +3847,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2123.0,
+                "max_ASP_PW": 1884.0,
+                "max_ASP_LI": 278.0,
+                "max_ASP_LW": 46.0,
+                "max_ASP_LZ": 61.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3194,7 +3884,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3946.0,
+                "max_ASP_PW": 3330.0,
+                "max_ASP_LI": 317.0,
+                "max_ASP_LW": 121.0,
+                "max_ASP_LZ": 178.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3218,7 +3913,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3462.0,
+                "max_ASP_PW": 3076.0,
+                "max_ASP_LI": 275.0,
+                "max_ASP_LW": 84.0,
+                "max_ASP_LZ": 58.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3242,7 +3942,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1747.0,
+                "max_ASP_PW": 1618.0,
+                "max_ASP_LI": 126.0,
+                "max_ASP_LW": 28.0,
+                "max_ASP_LZ": 21.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3274,7 +3979,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2210.0,
+                "max_ASP_PW": 1752.0,
+                "max_ASP_LI": 336.0,
+                "max_ASP_LW": 61.0,
+                "max_ASP_LZ": 62.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3306,7 +4016,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1078.0,
+                "max_ASP_PW": 919.0,
+                "max_ASP_LI": 76.0,
+                "max_ASP_LW": 75.0,
+                "max_ASP_LZ": 120.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3330,7 +4045,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2907.0,
+                "max_ASP_PW": 2683.0,
+                "max_ASP_LI": 243.0,
+                "max_ASP_LW": 68.0,
+                "max_ASP_LZ": 73.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3354,7 +4074,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 603.0,
+                "max_ASP_PW": 488.0,
+                "max_ASP_LI": 81.0,
+                "max_ASP_LW": 20.0,
+                "max_ASP_LZ": 30.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3386,7 +4111,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1078.0,
+                "max_ASP_PW": 919.0,
+                "max_ASP_LI": 76.0,
+                "max_ASP_LW": 75.0,
+                "max_ASP_LZ": 120.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3410,7 +4140,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3462.0,
+                "max_ASP_PW": 3076.0,
+                "max_ASP_LI": 275.0,
+                "max_ASP_LW": 90.0,
+                "max_ASP_LZ": 175.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3434,7 +4169,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2340.0,
+                "max_ASP_PW": 1898.0,
+                "max_ASP_LI": 336.0,
+                "max_ASP_LW": 63.0,
+                "max_ASP_LZ": 62.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3458,7 +4198,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 4565.0,
+                "max_ASP_PW": 3867.0,
+                "max_ASP_LI": 427.0,
+                "max_ASP_LW": 145.0,
+                "max_ASP_LZ": 233.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3482,7 +4227,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 4565.0,
+                "max_ASP_PW": 3867.0,
+                "max_ASP_LI": 427.0,
+                "max_ASP_LW": 145.0,
+                "max_ASP_LZ": 233.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3506,7 +4256,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2459.0,
+                "max_ASP_PW": 2098.0,
+                "max_ASP_LI": 264.0,
+                "max_ASP_LW": 53.0,
+                "max_ASP_LZ": 44.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3530,7 +4285,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3406.0,
+                "max_ASP_PW": 2819.0,
+                "max_ASP_LI": 448.0,
+                "max_ASP_LW": 123.0,
+                "max_ASP_LZ": 89.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3554,7 +4314,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2727.0,
+                "max_ASP_PW": 2481.0,
+                "max_ASP_LI": 198.0,
+                "max_ASP_LW": 31.0,
+                "max_ASP_LZ": 97.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3578,7 +4343,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2889.0,
+                "max_ASP_PW": 2653.0,
+                "max_ASP_LI": 239.0,
+                "max_ASP_LW": 49.0,
+                "max_ASP_LZ": 71.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3602,7 +4372,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3705.0,
+                "max_ASP_PW": 3352.0,
+                "max_ASP_LI": 181.0,
+                "max_ASP_LW": 83.0,
+                "max_ASP_LZ": 99.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3626,7 +4401,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2625.0,
+                "max_ASP_PW": 2198.0,
+                "max_ASP_LI": 349.0,
+                "max_ASP_LW": 68.0,
+                "max_ASP_LZ": 127.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3650,7 +4430,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 5538.0,
+                "max_ASP_PW": 4781.0,
+                "max_ASP_LI": 416.0,
+                "max_ASP_LW": 148.0,
+                "max_ASP_LZ": 217.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3674,7 +4459,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3738.0,
+                "max_ASP_PW": 3157.0,
+                "max_ASP_LI": 261.0,
+                "max_ASP_LW": 122.0,
+                "max_ASP_LZ": 198.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3698,7 +4488,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3717.0,
+                "max_ASP_PW": 3214.0,
+                "max_ASP_LI": 413.0,
+                "max_ASP_LW": 114.0,
+                "max_ASP_LZ": 78.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3722,7 +4517,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3502.0,
+                "max_ASP_PW": 2981.0,
+                "max_ASP_LI": 407.0,
+                "max_ASP_LW": 61.0,
+                "max_ASP_LZ": 54.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3746,7 +4546,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2625.0,
+                "max_ASP_PW": 2198.0,
+                "max_ASP_LI": 349.0,
+                "max_ASP_LW": 68.0,
+                "max_ASP_LZ": 127.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3770,7 +4575,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2228.0,
+                "max_ASP_PW": 1994.0,
+                "max_ASP_LI": 194.0,
+                "max_ASP_LW": 51.0,
+                "max_ASP_LZ": 243.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3794,7 +4604,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 4038.0,
+                "max_ASP_PW": 3703.0,
+                "max_ASP_LI": 239.0,
+                "max_ASP_LW": 78.0,
+                "max_ASP_LZ": 119.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3818,7 +4633,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1163.0,
+                "max_ASP_PW": 1101.0,
+                "max_ASP_LI": 100.0,
+                "max_ASP_LW": 8.0,
+                "max_ASP_LZ": 11.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3842,7 +4662,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3186.0,
+                "max_ASP_PW": 2743.0,
+                "max_ASP_LI": 322.0,
+                "max_ASP_LW": 67.0,
+                "max_ASP_LZ": 53.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3866,7 +4691,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3705.0,
+                "max_ASP_PW": 3352.0,
+                "max_ASP_LI": 181.0,
+                "max_ASP_LW": 83.0,
+                "max_ASP_LZ": 99.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3890,7 +4720,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3205.0,
+                "max_ASP_PW": 2757.0,
+                "max_ASP_LI": 244.0,
+                "max_ASP_LW": 90.0,
+                "max_ASP_LZ": 164.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3914,7 +4749,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3144.0,
+                "max_ASP_PW": 2707.0,
+                "max_ASP_LI": 255.0,
+                "max_ASP_LW": 101.0,
+                "max_ASP_LZ": 81.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3938,7 +4778,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3144.0,
+                "max_ASP_PW": 2707.0,
+                "max_ASP_LI": 255.0,
+                "max_ASP_LW": 101.0,
+                "max_ASP_LZ": 81.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -3962,7 +4807,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3206.0,
+                "max_ASP_PW": 2897.0,
+                "max_ASP_LI": 232.0,
+                "max_ASP_LW": 54.0,
+                "max_ASP_LZ": 47.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4002,7 +4852,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3717.0,
+                "max_ASP_PW": 3214.0,
+                "max_ASP_LI": 338.0,
+                "max_ASP_LW": 93.0,
+                "max_ASP_LZ": 75.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4038,7 +4893,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3169.0,
+                "max_ASP_PW": 2676.0,
+                "max_ASP_LI": 384.0,
+                "max_ASP_LW": 64.0,
+                "max_ASP_LZ": 45.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4062,7 +4922,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3459.0,
+                "max_ASP_PW": 2915.0,
+                "max_ASP_LI": 268.0,
+                "max_ASP_LW": 139.0,
+                "max_ASP_LZ": 255.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4086,7 +4951,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2977.0,
+                "max_ASP_PW": 2480.0,
+                "max_ASP_LI": 265.0,
+                "max_ASP_LW": 96.0,
+                "max_ASP_LZ": 136.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4110,7 +4980,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1392.0,
+                "max_ASP_PW": 1171.0,
+                "max_ASP_LI": 163.0,
+                "max_ASP_LW": 45.0,
+                "max_ASP_LZ": 49.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4134,7 +5009,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 4122.0,
+                "max_ASP_PW": 3574.0,
+                "max_ASP_LI": 379.0,
+                "max_ASP_LW": 104.0,
+                "max_ASP_LZ": 76.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4158,7 +5038,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2328.0,
+                "max_ASP_PW": 2080.0,
+                "max_ASP_LI": 159.0,
+                "max_ASP_LW": 55.0,
+                "max_ASP_LZ": 35.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4206,7 +5091,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2715.0,
+                "max_ASP_PW": 2297.0,
+                "max_ASP_LI": 151.0,
+                "max_ASP_LW": 123.0,
+                "max_ASP_LZ": 233.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4246,7 +5136,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3410.0,
+                "max_ASP_PW": 3075.0,
+                "max_ASP_LI": 160.0,
+                "max_ASP_LW": 69.0,
+                "max_ASP_LZ": 106.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4278,7 +5173,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2939.0,
+                "max_ASP_PW": 2447.0,
+                "max_ASP_LI": 284.0,
+                "max_ASP_LW": 97.0,
+                "max_ASP_LZ": 169.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4310,7 +5210,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2939.0,
+                "max_ASP_PW": 2447.0,
+                "max_ASP_LI": 284.0,
+                "max_ASP_LW": 97.0,
+                "max_ASP_LZ": 169.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4334,7 +5239,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1046.0,
+                "max_ASP_PW": 846.0,
+                "max_ASP_LI": 140.0,
+                "max_ASP_LW": 41.0,
+                "max_ASP_LZ": 30.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4358,7 +5268,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3639.0,
+                "max_ASP_PW": 3121.0,
+                "max_ASP_LI": 367.0,
+                "max_ASP_LW": 90.0,
+                "max_ASP_LZ": 130.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4382,7 +5297,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3614.0,
+                "max_ASP_PW": 2759.0,
+                "max_ASP_LI": 463.0,
+                "max_ASP_LW": 156.0,
+                "max_ASP_LZ": 236.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4406,7 +5326,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1850.0,
+                "max_ASP_PW": 1636.0,
+                "max_ASP_LI": 401.0,
+                "max_ASP_LW": 69.0,
+                "max_ASP_LZ": 53.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4438,7 +5363,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1717.0,
+                "max_ASP_PW": 1647.0,
+                "max_ASP_LI": 195.0,
+                "max_ASP_LW": 57.0,
+                "max_ASP_LZ": 42.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4462,7 +5392,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1434.0,
+                "max_ASP_PW": 1293.0,
+                "max_ASP_LI": 93.0,
+                "max_ASP_LW": 26.0,
+                "max_ASP_LZ": 22.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4486,7 +5421,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1046.0,
+                "max_ASP_PW": 846.0,
+                "max_ASP_LI": 140.0,
+                "max_ASP_LW": 41.0,
+                "max_ASP_LZ": 30.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4510,7 +5450,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2303.0,
+                "max_ASP_PW": 1969.0,
+                "max_ASP_LI": 163.0,
+                "max_ASP_LW": 62.0,
+                "max_ASP_LZ": 197.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4534,7 +5479,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2706.0,
+                "max_ASP_PW": 2031.0,
+                "max_ASP_LI": 348.0,
+                "max_ASP_LW": 115.0,
+                "max_ASP_LZ": 213.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4558,7 +5508,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3988.0,
+                "max_ASP_PW": 3416.0,
+                "max_ASP_LI": 930.0,
+                "max_ASP_LW": 47.0,
+                "max_ASP_LZ": 47.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4578,7 +5533,12 @@
                     50,
                     160,
                     160
-                ]
+                ],
+                "max_ASP_FZG": 1281.0,
+                "max_ASP_PW": 1110.0,
+                "max_ASP_LI": 135.0,
+                "max_ASP_LW": 42.0,
+                "max_ASP_LZ": 38.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4596,7 +5556,12 @@
                 "power": [
                     120,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 4409.0,
+                "max_ASP_PW": 3659.0,
+                "max_ASP_LI": 314.0,
+                "max_ASP_LW": 166.0,
+                "max_ASP_LZ": 322.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4616,7 +5581,12 @@
                     50,
                     160,
                     160
-                ]
+                ],
+                "max_ASP_FZG": 2080.0,
+                "max_ASP_PW": 1882.0,
+                "max_ASP_LI": 129.0,
+                "max_ASP_LW": 41.0,
+                "max_ASP_LZ": 62.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4636,7 +5606,12 @@
                     50,
                     160,
                     160
-                ]
+                ],
+                "max_ASP_FZG": 2576.0,
+                "max_ASP_PW": 2175.0,
+                "max_ASP_LI": 241.0,
+                "max_ASP_LW": 75.0,
+                "max_ASP_LZ": 84.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4676,7 +5651,12 @@
                     300,
                     300,
                     300
-                ]
+                ],
+                "max_ASP_FZG": 3331.0,
+                "max_ASP_PW": 2629.0,
+                "max_ASP_LI": 407.0,
+                "max_ASP_LW": 126.0,
+                "max_ASP_LZ": 178.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4716,7 +5696,12 @@
                     300,
                     300,
                     300
-                ]
+                ],
+                "max_ASP_FZG": 3665.0,
+                "max_ASP_PW": 2941.0,
+                "max_ASP_LI": 426.0,
+                "max_ASP_LW": 125.0,
+                "max_ASP_LZ": 193.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4740,7 +5725,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2099.0,
+                "max_ASP_PW": 1771.0,
+                "max_ASP_LI": 338.0,
+                "max_ASP_LW": 75.0,
+                "max_ASP_LZ": 45.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4772,7 +5762,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2099.0,
+                "max_ASP_PW": 1771.0,
+                "max_ASP_LI": 338.0,
+                "max_ASP_LW": 75.0,
+                "max_ASP_LZ": 45.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4792,7 +5787,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2279.0,
+                "max_ASP_PW": 1873.0,
+                "max_ASP_LI": 286.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 67.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4812,7 +5812,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1083.0,
+                "max_ASP_PW": 899.0,
+                "max_ASP_LI": 178.0,
+                "max_ASP_LW": 30.0,
+                "max_ASP_LZ": 21.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4832,7 +5837,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3406.0,
+                "max_ASP_PW": 2819.0,
+                "max_ASP_LI": 448.0,
+                "max_ASP_LW": 123.0,
+                "max_ASP_LZ": 91.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4852,7 +5862,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 5026.0,
+                "max_ASP_PW": 4319.0,
+                "max_ASP_LI": 416.0,
+                "max_ASP_LW": 148.0,
+                "max_ASP_LZ": 217.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4872,7 +5887,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1860.0,
+                "max_ASP_PW": 1564.0,
+                "max_ASP_LI": 316.0,
+                "max_ASP_LW": 79.0,
+                "max_ASP_LZ": 29.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4892,7 +5912,12 @@
                     120,
                     120,
                     120
-                ]
+                ],
+                "max_ASP_FZG": 3111.0,
+                "max_ASP_PW": 2573.0,
+                "max_ASP_LI": 370.0,
+                "max_ASP_LW": 77.0,
+                "max_ASP_LZ": 91.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4916,7 +5941,12 @@
                     160,
                     100,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 3717.0,
+                "max_ASP_PW": 3214.0,
+                "max_ASP_LI": 413.0,
+                "max_ASP_LW": 114.0,
+                "max_ASP_LZ": 78.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4940,7 +5970,12 @@
                     66,
                     66,
                     66
-                ]
+                ],
+                "max_ASP_FZG": 3558.0,
+                "max_ASP_PW": 3122.0,
+                "max_ASP_LI": 549.0,
+                "max_ASP_LW": 86.0,
+                "max_ASP_LZ": 143.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4964,7 +5999,12 @@
                     160,
                     100,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 2949.0,
+                "max_ASP_PW": 2226.0,
+                "max_ASP_LI": 386.0,
+                "max_ASP_LW": 120.0,
+                "max_ASP_LZ": 217.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -4988,7 +6028,12 @@
                     160,
                     100,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 3213.0,
+                "max_ASP_PW": 2898.0,
+                "max_ASP_LI": 500.0,
+                "max_ASP_LW": 49.0,
+                "max_ASP_LZ": 44.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5008,7 +6053,12 @@
                     160,
                     100,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 1945.0,
+                "max_ASP_PW": 1672.0,
+                "max_ASP_LI": 147.0,
+                "max_ASP_LW": 48.0,
+                "max_ASP_LZ": 87.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5032,7 +6082,12 @@
                     160,
                     100,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 2937.0,
+                "max_ASP_PW": 2480.0,
+                "max_ASP_LI": 333.0,
+                "max_ASP_LW": 86.0,
+                "max_ASP_LZ": 38.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5080,7 +6135,12 @@
                     160,
                     100,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 2427.0,
+                "max_ASP_PW": 2154.0,
+                "max_ASP_LI": 263.0,
+                "max_ASP_LW": 77.0,
+                "max_ASP_LZ": 64.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5100,7 +6160,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1845.0,
+                "max_ASP_PW": 1458.0,
+                "max_ASP_LI": 316.0,
+                "max_ASP_LW": 89.0,
+                "max_ASP_LZ": 25.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5120,7 +6185,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2600.0,
+                "max_ASP_PW": 2341.0,
+                "max_ASP_LI": 197.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 44.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5140,7 +6210,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3268.0,
+                "max_ASP_PW": 2967.0,
+                "max_ASP_LI": 243.0,
+                "max_ASP_LW": 75.0,
+                "max_ASP_LZ": 74.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5160,7 +6235,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3502.0,
+                "max_ASP_PW": 2981.0,
+                "max_ASP_LI": 407.0,
+                "max_ASP_LW": 61.0,
+                "max_ASP_LZ": 54.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5180,7 +6260,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2907.0,
+                "max_ASP_PW": 2683.0,
+                "max_ASP_LI": 243.0,
+                "max_ASP_LW": 68.0,
+                "max_ASP_LZ": 73.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5200,7 +6285,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 4038.0,
+                "max_ASP_PW": 3703.0,
+                "max_ASP_LI": 239.0,
+                "max_ASP_LW": 78.0,
+                "max_ASP_LZ": 119.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5220,7 +6310,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3331.0,
+                "max_ASP_PW": 2629.0,
+                "max_ASP_LI": 407.0,
+                "max_ASP_LW": 126.0,
+                "max_ASP_LZ": 178.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5240,7 +6335,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2327.0,
+                "max_ASP_PW": 1885.0,
+                "max_ASP_LI": 336.0,
+                "max_ASP_LW": 61.0,
+                "max_ASP_LZ": 62.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5260,7 +6360,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 952.0,
+                "max_ASP_PW": 480.0,
+                "max_ASP_LI": 346.0,
+                "max_ASP_LW": 58.0,
+                "max_ASP_LZ": 120.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5280,7 +6385,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1138.0,
+                "max_ASP_PW": 978.0,
+                "max_ASP_LI": 178.0,
+                "max_ASP_LW": 30.0,
+                "max_ASP_LZ": 21.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5300,7 +6410,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2373.0,
+                "max_ASP_PW": 1973.0,
+                "max_ASP_LI": 280.0,
+                "max_ASP_LW": 84.0,
+                "max_ASP_LZ": 59.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5320,7 +6435,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1592.0,
+                "max_ASP_PW": 1343.0,
+                "max_ASP_LI": 144.0,
+                "max_ASP_LW": 62.0,
+                "max_ASP_LZ": 43.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5340,7 +6460,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 1408.0,
+                "max_ASP_PW": 1307.0,
+                "max_ASP_LI": 113.0,
+                "max_ASP_LW": 39.0,
+                "max_ASP_LZ": 18.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5360,7 +6485,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3377.0,
+                "max_ASP_PW": 2707.0,
+                "max_ASP_LI": 551.0,
+                "max_ASP_LW": 89.0,
+                "max_ASP_LZ": 38.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5380,7 +6510,12 @@
                     160,
                     160,
                     160
-                ]
+                ],
+                "max_ASP_FZG": 348.0,
+                "max_ASP_PW": 305.0,
+                "max_ASP_LI": 83.0,
+                "max_ASP_LW": 11.0,
+                "max_ASP_LZ": 12.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5400,7 +6535,12 @@
                     66,
                     66,
                     66
-                ]
+                ],
+                "max_ASP_FZG": 1918.0,
+                "max_ASP_PW": 1637.0,
+                "max_ASP_LI": 428.0,
+                "max_ASP_LW": 75.0,
+                "max_ASP_LZ": 65.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5424,7 +6564,12 @@
                     160,
                     100,
                     100
-                ]
+                ],
+                "max_ASP_FZG": 3299.0,
+                "max_ASP_PW": 3037.0,
+                "max_ASP_LI": 263.0,
+                "max_ASP_LW": 54.0,
+                "max_ASP_LZ": 51.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5448,7 +6593,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 935.0,
+                "max_ASP_PW": 837.0,
+                "max_ASP_LI": 54.0,
+                "max_ASP_LW": 36.0,
+                "max_ASP_LZ": 8.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5472,7 +6622,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2889.0,
+                "max_ASP_PW": 2653.0,
+                "max_ASP_LI": 123.0,
+                "max_ASP_LW": 46.0,
+                "max_ASP_LZ": 68.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5496,7 +6651,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 2889.0,
+                "max_ASP_PW": 2653.0,
+                "max_ASP_LI": 123.0,
+                "max_ASP_LW": 46.0,
+                "max_ASP_LZ": 68.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5520,7 +6680,12 @@
                     175,
                     175,
                     175
-                ]
+                ],
+                "max_ASP_FZG": 5379.0,
+                "max_ASP_PW": 4741.0,
+                "max_ASP_LI": 723.0,
+                "max_ASP_LW": 167.0,
+                "max_ASP_LZ": 55.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5544,7 +6709,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3029.0,
+                "max_ASP_PW": 2636.0,
+                "max_ASP_LI": 279.0,
+                "max_ASP_LW": 78.0,
+                "max_ASP_LZ": 72.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5568,7 +6738,12 @@
                     50,
                     50,
                     50
-                ]
+                ],
+                "max_ASP_FZG": 3029.0,
+                "max_ASP_PW": 2636.0,
+                "max_ASP_LI": 279.0,
+                "max_ASP_LW": 78.0,
+                "max_ASP_LZ": 72.0
             },
             "geometry": {
                 "type": "MultiPoint",
@@ -5592,7 +6767,12 @@
                     60,
                     60,
                     60
-                ]
+                ],
+                "max_ASP_FZG": 997.0,
+                "max_ASP_PW": 897.0,
+                "max_ASP_LI": 58.0,
+                "max_ASP_LW": 34.0,
+                "max_ASP_LZ": 8.0
             },
             "geometry": {
                 "type": "MultiPoint",
