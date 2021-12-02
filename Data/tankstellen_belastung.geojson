@@ -17,7 +17,11 @@
                     350,
                     350
                 ],
-                "max_ASP_PW": 1873.0
+                "max_ASP_FZG": 2279.0,
+                "max_ASP_PW": 1873.0,
+                "max_ASP_LI": 280.0,
+                "max_ASP_LW": 59.0,
+                "max_ASP_LZ": 67.0
             },
             "geometry": {
                 "type": "MultiPoint",
