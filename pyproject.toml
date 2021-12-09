@@ -7,6 +7,10 @@ authors = ["d33pk3rn3l <<>>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 geopandas = "^0.10.2"
+MultiPoint = "^0.0.3"
+definitions = "^0.2.0"
+function = "^1.2.0"
+pyaxis = "^0.3.4"
 
 [tool.poetry.dev-dependencies]
 

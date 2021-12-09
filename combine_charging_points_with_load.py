@@ -1,6 +1,9 @@
 import json
 import geopandas
 
+#Gefilterte Strassenverkehrszählungen, Zahlen extrahieren
+#Wie? Jede Tankstelle hat Radius, nehmen Strassenabschnitt im Radius mit grösstem Peak-Hour-Wert 
+
 with open("./Data/clipped_belastung_1000m_neu.geojson") as jsonFile:
     belastung = geopandas.read_file(jsonFile)
     jsonFile.close()
@@ -40,10 +43,6 @@ for tankstelle in tankstellen["features"]:
 with open('./Data/tankstellen_belastung.geojson', 'w', encoding='utf-8') as f:
     json.dump(tankstellen, f, ensure_ascii=False, indent=4)
 
-
-
-#Gefilterte Strassenverkehrszählungen, Zahlen extrahieren
-#Wie? Jede Tankstelle hat Radius, nehmen Strassenabschnitt im Radius mit grösstem Peak-Hour-Wert 
 #Zahlen minimieren sodass sie den E-Autos entsprechen (Je nach Szenario anderst)
 #Zahlen minimieren nach wie viele E-Autos in diesem Peak effektiv laden müssen (Schauen wie weit E-Autos kommen und wie weit sie im Schnitt fahren)--> einigung auf ca 300 km im schnitt
 #Je nach grösse dieser endgültigen Zahl kann man die Belastung der E-Tankstellen an jedem Standort berechnen (Gewichtung)
