@@ -60,4 +60,4 @@ print(sum(tankstellen.sufficiency_ZERO_E)/237)
 
 tankstellen.drop(["power"], inplace=True, axis = 1)
 
-tankstellen.to_file("./Data/Export/tankstellen_sufficency_models.shp")
+tankstellen.to_file("./Data/Export/tankstellen_sufficency_models.geojson", driver = "GeoJSON")
