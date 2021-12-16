@@ -1,2 +1,2 @@
 language = "python3"
-run = "python weight.py"
+run = "python optimizer.py"

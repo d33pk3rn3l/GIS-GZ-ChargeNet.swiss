@@ -27,6 +27,7 @@ for tankstelle in tankstellen["features"]:
   gdf = geopandas.read_file(
     belastungf,
     bbox=bbox)
+    
   if gdf.empty: print(c + 1, " of ", len(tankstellen["features"]), " bei ", tankstelle, gdf)
   tankstelle["properties"]["max_ASP_FZG"] = max(gdf.ASP_FZG)
   tankstelle["properties"]["max_ASP_PW"] = max(gdf.ASP_PW)
