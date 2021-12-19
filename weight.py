@@ -14,8 +14,3 @@ print(pop.columns)
 
 pop.drop(pop[pop.VALUE <= 50000].index, inplace=True)
 print(pop)
-
-"""for population in pop.VALUE:
-  if population < 500000: 
-    pop.drop(pop.VALUE[, inplace=True)
-print(pop)"""
