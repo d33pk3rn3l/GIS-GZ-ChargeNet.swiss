@@ -29,20 +29,25 @@ def minimizer(file, pct, what, column):
     liste.append(EAutos)
   file[what] = liste
 
-def capacity(tankstellen, SZ, consumption, winter, when, driven, bat_cap, max_power):
-  #dist = Wie weit E-Auto kommt im Schnitt in km
+def charging(tankstellen, timeframe, consumption, winter, when, driven, bat_cap):
   #winter = Worstcase Winter, Multiplikator wie weit sie dann kommen
   #when E-Autos laden schon bei ca. 20% Akku
   #driven durchschnittlich zurückgelegte Distanz pro Tag in km
-  #bat_cap = 70 #Durchschittliche Batteriekapazität kWh
-  #SZ = Szenarien
+  #bat_cap #Durchschittliche Batteriekapazität kWh
+  #consumption verbrauch in kwh/100km
   #bat_cap = battery capacity EAutos
   dist = 100 * bat_cap / consumption #100 * kwh / (kwh / 100km)
   pct = driven / (dist * winter * when) 
+
+  minimizer(tankstellen, pct, "E-Autos_charging_" + timeframe, "E-Autos_" + timeframe)
+    #print(pct)
+
   
-  for timeframe in SZ["Name"]:
-    minimizer(tankstellen, pct, "E-Autos charging " + timeframe, "E-Autos " + timeframe)
-  
+"""Capacity takes parameters and returns the capacity based on 
+charging points, power delivery and battery capacity of the average car"""
+def capacity(tankstellen, when, bat_cap, max_power):
+
+  #print(tankstellen["E-Autos charging Today"], tankstellen["E-Autos charging BAU"])
   list_capacity = []
   for i in range(len(tankstellen["power"])):
     summe = 0
@@ -106,3 +111,32 @@ def weighter_multiply(tankstellen, scenario, city_weight = 1):
   return tankstellen
 
 #weighter: every charging point has a weight of 237 * 1/237 (same weighing), we erase that and say if its in a city it gets a weight of city_weight and the rest percentage which isnt in the cities gets distributed equally ((237 - city_weight * 10) / 237)
+
+def sufficiency_pct(start, finish, step, tankstellen, cities, SZ, consumption, winter, when, driven, bat_cap, max_power):
+  range_list = np.arange(start / 100, finish / 100, step / 100).tolist()
+  sufficiency_x_y = pd.DataFrame()
+  sufficiency_x_y["pct_of_e_cars_on_roads"] = range_list
+  sufficiency_per_pct = []
+
+  for pct in range_list:
+    minimizer(tankstellen, pct, "E-Autos_" + str(pct), 'max_ASP_PW')
+
+  tankstellen["capacity_pct"] = capacity(tankstellen, 0.7, 70, 100)
+
+  for pct in range_list:
+    charging(tankstellen, str(pct), 25, 0.7, 0.8, 23.82, 70)
+    tankstellen = weighter(cities, tankstellen, "E-Autos_charging_" + str(pct), city_weight = 2)
+    tankstellen["sufficiency_" + str(pct)] = sufficiency(tankstellen, "E-Autos_charging_" + str(pct), "capacity_pct")
+    sum = 0
+    for i in range(len(tankstellen["sufficiency_" + str(pct)])):
+      if tankstellen["sufficiency_" + str(pct)][i] < 1:
+        sum += 1
+    sufficiency_per_pct.append(sum)
+
+  sufficiency_x_y["sufficiency"] = sufficiency_per_pct
+  #print(sufficiency_x_y)
+  #print("sufficient pct" , tankstellen[tankstellen["sufficiency_0.014999999999999996"] < 1].count()["sufficiency_0.014999999999999996"])
+  #tankstellen.to_csv("./Data/Export/tankstellen_sufficency_test_pct.csv")
+
+
+  return sufficiency_x_y
