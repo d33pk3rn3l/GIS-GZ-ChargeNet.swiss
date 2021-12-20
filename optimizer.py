@@ -47,7 +47,7 @@ winter = 0.8
 when = 0.8
 driven = 25
 bat_cap = 140
-max_power = 250
+max_power = 200
 functions.charging(tankstellen, timeframe, consumption,
                    winter, when, driven, bat_cap)
 # weniger Geld in Technologie wegen weniger use, tiefere Kapazitäten / Reichweite
@@ -65,7 +65,7 @@ winter = 0.8
 when = 0.8
 driven = 25
 bat_cap = 150
-max_power = 300
+max_power = 200
 functions.charging(tankstellen, timeframe, consumption,
                    winter, when, driven, bat_cap)
 tankstellen["capacity_zero"] = functions.capacity(
@@ -82,7 +82,7 @@ winter = 0.8
 when = 0.8
 driven = 25
 bat_cap = 150
-max_power = 350
+max_power = 200
 # Reichweite & bat_cap deutlich höher (20kWh / 100km => 200 kWh Kapa), Winter bessere Akku, gefahrene km höher (BFS +7% auf 2050)
 functions.charging(tankstellen, timeframe, consumption,
                    winter, when, driven, bat_cap)
@@ -93,7 +93,7 @@ tankstellen = functions.weighter(
 tankstellen["sufficiency_ZERO_E"] = functions.sufficiency(
     tankstellen, "E-Autos_charging_ZERO_E", "capacity_zero_e")
 
-
+"""
 # plot a graph where the sufficiency is subordinate to the pct of e cars, pass start, finish and step in percentage
 start, finish, step = 1,100,1
 sufficiency_pct = functions.sufficiency_pct(
@@ -132,15 +132,15 @@ plt.savefig("Data/Export/comparison_parameters_today.png", dpi=240)
 # E-Autos charging Today
 # E-Autos charging BAU
 # E-Autos charging ZERO
-# E-Autos charging ZERO E
-
+# E-Autos charging ZERO E"""
 
 # print(tankstellen.sufficiency_today)
 print("sufficient t",tankstellen[tankstellen.sufficiency_today < 1].count().sufficiency_today)
 print("sufficient b",tankstellen[tankstellen.sufficiency_BAU < 1].count().sufficiency_BAU)
 print("sufficient z",tankstellen[tankstellen.sufficiency_ZERO < 1].count().sufficiency_ZERO)
 print("sufficient ze",tankstellen[tankstellen.sufficiency_ZERO_E < 1].count().sufficiency_ZERO_E)
-#print(tankstellen[tankstellen.sufficiency_ZERO_E < 1].geometry)
+#print(max(tankstellen.sufficiency_ZERO_E))
+#print(tankstellen[tankstellen.sufficiency_BAU < 1].geometry)
 #print(tankstellen[tankstellen.sufficiency_model_1 >= 1].count())
 # print(tankstellen.sufficiency_model_1)
 # print(sum(tankstellen.sufficiency_ZERO_E)/237)
@@ -149,3 +149,4 @@ tankstellen.drop(["power"], inplace=True, axis=1)
 
 tankstellen.to_file(
     "./Data/Export/tankstellen_sufficency_models.geojson", driver="GeoJSON")
+
