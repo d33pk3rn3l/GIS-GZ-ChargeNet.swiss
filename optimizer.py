@@ -83,9 +83,9 @@ when = 0.8
 driven = 25
 bat_cap = 150
 max_power = 350
+# Reichweite & bat_cap deutlich höher (20kWh / 100km => 200 kWh Kapa), Winter bessere Akku, gefahrene km höher (BFS +7% auf 2050)
 functions.charging(tankstellen, timeframe, consumption,
                    winter, when, driven, bat_cap)
-# Reichweite & bat_cap deutlich höher (20kWh / 100km => 200 kWh Kapa), Winter bessere Akku, gefahrene km höher (BFS +7% auf 2050)
 tankstellen["capacity_zero_e"] = functions.capacity(
     tankstellen, when, bat_cap, max_power)
 tankstellen = functions.weighter(
@@ -95,16 +95,29 @@ tankstellen["sufficiency_ZERO_E"] = functions.sufficiency(
 
 
 # plot a graph where the sufficiency is subordinate to the pct of e cars, pass start, finish and step in percentage
-"""sufficiency_pct = functions.sufficiency_pct(
-    0.5, 20, 0.1, tankstellen, cities, SZ, 25, 0.7, 0.8, 23.82, 70, 100)
-#sufficiency_pct.plot(x = "pct_of_e_cars_on_roads", y = "sufficiency")
-# sufficiency_pct.plot()
-plt.plot(sufficiency_pct["pct_of_e_cars_on_roads"]
-         * 100, sufficiency_pct["sufficiency"])
-plt.xlabel("% an E-Autos aller Autos")
-plt.ylabel("Ausreichende Ladestationen")
+start, finish, step = 1,100,1
+sufficiency_pct = functions.sufficiency_pct(
+    start, finish, step, tankstellen, cities, SZ, 25, 0.7, 0.8, 23.82, 70, 100)
+sufficiency_pct_2 = functions.sufficiency_pct(
+    start, finish, step, tankstellen, cities, SZ, 25, 0.7, 0.8, 23.82, 70, 300)
+sufficiency_pct_3 = functions.sufficiency_pct(
+    start, finish, step, tankstellen, cities, SZ, 15, 0.7, 0.8, 23.82, 70, 100)
+sufficiency_pct_4 = functions.sufficiency_pct(
+    start, finish, step, tankstellen, cities, SZ, 25, 0.7, 0.95, 23.82, 70, 100)
 
-plt.show()"""
+# Plotting
+plt.plot(sufficiency_pct["pct_of_e_cars_on_roads"] * 100, sufficiency_pct["sufficiency"], label="Model Today")
+plt.plot(sufficiency_pct_2["pct_of_e_cars_on_roads"] * 100, sufficiency_pct_2["sufficiency"], label="300 kW Leistung schweizweit")
+plt.plot(sufficiency_pct_3["pct_of_e_cars_on_roads"] * 100, sufficiency_pct_3["sufficiency"], label="Verbrauch 15 kwh/100 km")
+plt.plot(sufficiency_pct_4["pct_of_e_cars_on_roads"] * 100, sufficiency_pct_4["sufficiency"], label="Laden erst bei 5%")
+
+# Labelling
+plt.title("Vergleich Modell 'Today' mit Parametern")
+plt.xlabel("% an E-Autos aller PKW")
+plt.ylabel("Ausreichende Ladestationen (Auslastung <=1)")
+plt.legend()
+
+plt.savefig("Data/Export/comparison_parameters_today.png", dpi=240)
 
 # print(tankstellen)
 # Je nach grösse dieser endgültigen Zahl kann man die Belastung der E-Tankstellen an jedem Standort berechnen (Gewichtung)

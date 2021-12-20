@@ -4,6 +4,7 @@ import pandas as pd
 import geopandas
 import json
 from shapely.geometry import MultiPoint
+from tqdm import tqdm
 
 def read_geojson_with_power(path_to_geojson):
     with open(path_to_geojson, "r") as infile:
@@ -59,6 +60,7 @@ def capacity(tankstellen, when, bat_cap, max_power):
       else:
         summe += tankstellen["power"][i][j]
     list_capacity.append(summe/(bat_cap * (0.8 - (1 - when)))) #charges only to 80% and was at given percentage (when)
+    #print((bat_cap * (0.8 - (1 - when))))
   
   #tankstellen["capacity"] = list_capacity
   
@@ -121,10 +123,10 @@ def sufficiency_pct(start, finish, step, tankstellen, cities, SZ, consumption, w
   for pct in range_list:
     minimizer(tankstellen, pct, "E-Autos_" + str(pct), 'max_ASP_PW')
 
-  tankstellen["capacity_pct"] = capacity(tankstellen, 0.7, 70, 100)
+  tankstellen["capacity_pct"] = capacity(tankstellen, when, bat_cap, max_power)
 
-  for pct in range_list:
-    charging(tankstellen, str(pct), 25, 0.7, 0.8, 23.82, 70)
+  for pct in tqdm(range_list):
+    charging(tankstellen, str(pct), consumption, winter, when, driven, bat_cap)
     tankstellen = weighter(cities, tankstellen, "E-Autos_charging_" + str(pct), city_weight = 2)
     tankstellen["sufficiency_" + str(pct)] = sufficiency(tankstellen, "E-Autos_charging_" + str(pct), "capacity_pct")
     sum = 0
