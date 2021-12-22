@@ -1,6 +1,9 @@
 import pandas as pd
 import functions
 import matplotlib.pyplot as plt
+import folium
+from folium import plugins
+import branca
 
 
 """ Prepare for calculation, initialize all data """
@@ -92,47 +95,125 @@ tankstellen = functions.weighter(
 tankstellen["sufficiency_ZERO_E"] = functions.sufficiency(
     tankstellen, "E-Autos_charging_ZERO_E", "capacity_zero_e")
 
-""" Plot a graph where the sufficiency is subordinate to the pct of e cars, pass start, finish and step in percentage """
-start, finish, step = 1, 100, 1
-sufficiency_pct = functions.sufficiency_pct(
-    start, finish, step, tankstellen, cities, 25, 0.7, 0.8, 23.82, 70, 100)
-sufficiency_pct_2 = functions.sufficiency_pct(
-    start, finish, step, tankstellen, cities, 25, 0.7, 0.8, 23.82, 70, 300)
-sufficiency_pct_3 = functions.sufficiency_pct(
-    start, finish, step, tankstellen, cities, 15, 0.7, 0.8, 23.82, 70, 100)
-sufficiency_pct_4 = functions.sufficiency_pct(
-    start, finish, step, tankstellen, cities, 25, 0.7, 0.95, 23.82, 70, 100)
 
-# Plotting
-plt.plot(sufficiency_pct["pct_of_e_cars_on_roads"] * 100,
-         sufficiency_pct["sufficiency"], label="Model Today")
-plt.plot(sufficiency_pct_2["pct_of_e_cars_on_roads"] * 100,
-         sufficiency_pct_2["sufficiency"], label="300 kW Leistung schweizweit")
-plt.plot(sufficiency_pct_3["pct_of_e_cars_on_roads"] * 100,
-         sufficiency_pct_3["sufficiency"], label="Verbrauch 15 kwh/100 km")
-plt.plot(sufficiency_pct_4["pct_of_e_cars_on_roads"] * 100,
-         sufficiency_pct_4["sufficiency"], label="Laden erst bei 5%")
+#""" Plot a graph where the sufficiency is subordinate to the pct of e cars, pass start, finish and step in percentage """
+#start, finish, step = 1, 100, 1
+#sufficiency_pct = functions.sufficiency_pct(
+#    start, finish, step, tankstellen, cities, 25, 0.7, 0.8, 23.82, 70, 100)
+#sufficiency_pct_2 = functions.sufficiency_pct(
+#    start, finish, step, tankstellen, cities, 25, 0.7, 0.8, 23.82, 70, 300)
+#sufficiency_pct_3 = functions.sufficiency_pct(
+#    start, finish, step, tankstellen, cities, 15, 0.7, 0.8, 23.82, 70, 100)
+#sufficiency_pct_4 = functions.sufficiency_pct(
+#    start, finish, step, tankstellen, cities, 25, 0.7, 0.95, 23.82, 70, 100)
+#
+## Plotting
+#plt.plot(sufficiency_pct["pct_of_e_cars_on_roads"] * 100,
+#         sufficiency_pct["sufficiency"], label="Model Today")
+#plt.plot(sufficiency_pct_2["pct_of_e_cars_on_roads"] * 100,
+#         sufficiency_pct_2["sufficiency"], label="300 kW Leistung schweizweit")
+#plt.plot(sufficiency_pct_3["pct_of_e_cars_on_roads"] * 100,
+#         sufficiency_pct_3["sufficiency"], label="Verbrauch 15 kwh/100 km")
+#plt.plot(sufficiency_pct_4["pct_of_e_cars_on_roads"] * 100,
+#         sufficiency_pct_4["sufficiency"], label="Laden erst bei 5%")
+#
+## Labelling
+#plt.title("Vergleich Modell 'Today' mit Parametern")
+#plt.xlabel("% an E-Autos aller PKW")
+#plt.ylabel("Ausreichende Ladestationen (Auslastung <=1)")
+#plt.legend()
+#
+#plt.savefig("Data/Export/comparison_parameters_today.png", dpi=240)
+#
+## Short overview of the scenarios sufficient charging points
+#print("sufficient t",
+#      tankstellen[tankstellen.sufficiency_today <= 1].count().sufficiency_today)
+#print("sufficient b",
+#      tankstellen[tankstellen.sufficiency_BAU <= 1].count().sufficiency_BAU)
+#print("sufficient z",
+#      tankstellen[tankstellen.sufficiency_ZERO <= 1].count().sufficiency_ZERO)
+#print("sufficient ze",
+#      tankstellen[tankstellen.sufficiency_ZERO_E <= 1].count().sufficiency_ZERO_E)
+#
+## Get coordinates of sufficient charging points in BAU
+#print(tankstellen[tankstellen.sufficiency_BAU < 1].geometry)
 
-# Labelling
-plt.title("Vergleich Modell 'Today' mit Parametern")
-plt.xlabel("% an E-Autos aller PKW")
-plt.ylabel("Ausreichende Ladestationen (Auslastung <=1)")
-plt.legend()
 
-plt.savefig("Data/Export/comparison_parameters_today.png", dpi=240)
+tankstellen = tankstellen.set_crs(epsg=2056, allow_override=True)
+tankstellen = tankstellen.to_crs(epsg=4326)
 
-# Short overview of the scenarios sufficient charging points
-print("sufficient t",
-      tankstellen[tankstellen.sufficiency_today <= 1].count().sufficiency_today)
-print("sufficient b",
-      tankstellen[tankstellen.sufficiency_BAU <= 1].count().sufficiency_BAU)
-print("sufficient z",
-      tankstellen[tankstellen.sufficiency_ZERO <= 1].count().sufficiency_ZERO)
-print("sufficient ze",
-      tankstellen[tankstellen.sufficiency_ZERO_E <= 1].count().sufficiency_ZERO_E)
+colorscale = branca.colormap.linear.YlOrRd_09.scale(0, 50e3)
 
-# Get coordinates of sufficient charging points in BAU
-print(tankstellen[tankstellen.sufficiency_BAU < 1].geometry)
+def sufficient_color(feature):
+    sufficient = tankstellen["sufficiency_today"]
+    return {"color": "#green" if sufficient <= 1 else colorscale(sufficient)}
+
+m = folium.Map(
+    location=[46.87, 8.3],
+    tiles="openstreetmap",
+    zoom_start=8,
+)
+
+def color_producer(suff):
+    if suff <= 0.8:
+        return 'green'
+    elif 0.8 <= suff <= 1:
+        return 'lightgreen'
+    elif 1 < suff < 1.5:
+        return 'orange'
+    elif 1.5 <= suff < 10:
+        return "red"
+    elif 10 <= suff < 100:
+        return "purple"
+    else:
+        return "black"
+
+tk_today = folium.FeatureGroup(name = "Tankstellen Today")
+tk_b = folium.FeatureGroup(name = "Tankstellen Business as usual", show=False)
+tk_z = folium.FeatureGroup(name = "Tankstellen ZERO", show=False)
+tk_ze = folium.FeatureGroup(name = "Tankstellen ZERO E", show=False)
+
+for i in range(len(tankstellen)):
+    y = tankstellen['geometry'][i][0].x
+    x = tankstellen['geometry'][i][0].y
+    suff = tankstellen["sufficiency_today"][i]
+    folium.Marker([x,y], popup="Auslastung (eg. 0.5 => 50%): " + str(round(suff,3)), icon=folium.Icon(color=color_producer(suff), icon="flash", icon_color='#FFFFFF')).add_to(tk_today)
+
+for i in range(len(tankstellen)):
+    y = tankstellen['geometry'][i][0].x
+    x = tankstellen['geometry'][i][0].y
+    suff = tankstellen["sufficiency_BAU"][i]
+    folium.Marker([x,y], popup="Auslastung (eg. 0.5 => 50%): " + str(round(suff,3)), icon=folium.Icon(color=color_producer(suff), icon="flash", icon_color='#FFFFFF', prefix="fa")).add_to(tk_b)
+
+for i in range(len(tankstellen)):
+    y = tankstellen['geometry'][i][0].x
+    x = tankstellen['geometry'][i][0].y
+    suff = tankstellen["sufficiency_ZERO"][i]
+    folium.Marker([x,y], popup="Auslastung (eg. 0.5 => 50%): " + str(round(suff,3)), icon=folium.Icon(color=color_producer(suff), icon="flash", icon_color='#FFFFFF', prefix="fa")).add_to(tk_z)
+
+for i in range(len(tankstellen)):
+    y = tankstellen['geometry'][i][0].x
+    x = tankstellen['geometry'][i][0].y
+    suff = tankstellen["sufficiency_ZERO_E"][i]
+    folium.Marker([x,y], popup="Auslastung (eg. 0.5 => 50%): " + str(round(suff,3)), icon=folium.Icon(color=color_producer(suff), icon="flash", icon_color='#FFFFFF', prefix="fa")).add_to(tk_ze)
+
+
+x,y = [],[]
+for i in range(len(tankstellen)):
+    y.append(tankstellen['geometry'][i][0].x)
+    x.append(tankstellen['geometry'][i][0].y)
+lat_long = list(zip(x,y))
+
+
+m.add_child(tk_today)
+m.add_child(tk_b)
+m.add_child(tk_z)
+m.add_child(tk_ze)
+
+plugins.HeatMap(lat_long).add_to(folium.FeatureGroup(name="Tankstellendichte", show=False).add_to(m))
+
+m.add_child(folium.LayerControl())
+m.save("map.html")
 
 # GeoJSON driver of geopandas does not support lists for export, drop it
 tankstellen.drop(["power"], inplace=True, axis=1)
