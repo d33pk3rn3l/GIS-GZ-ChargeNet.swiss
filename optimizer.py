@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 with open('Data/SZ_GIS.csv') as Szenarien:
     SZ = pd.read_csv(Szenarien)
 
-# Cities with more than 50'000 inhabitants get a different weight
+# Cities with more than 50'000 inhabitants get a different weight, import the cities
 with open('Data/city_coords_pop.csv') as file:
     cities = pd.read_csv(file)
 
@@ -40,7 +40,8 @@ tankstellen = functions.weighter(
 tankstellen["sufficiency_today"] = functions.sufficiency(
     tankstellen, "E-Autos_charging_Today", "capacity_today")
 
-# Scenario 2 - slow linear increase of cars as today
+# All the following scenarios have more km (BFS +7% in 2050) and better batteries in winter (80% range), they also charge quicker (max. 200 kW)
+# Scenario 2 - slow linear increase of cars as today. Less money in technology therefore lower capacities / range
 timeframe = "BAU"
 consumption = 20
 winter = 0.8
@@ -50,7 +51,6 @@ bat_cap = 140
 max_power = 200
 functions.charging(tankstellen, timeframe, consumption,
                    winter, when, driven, bat_cap)
-# weniger Geld in Technologie wegen weniger use, tiefere Kapazitäten / Reichweite
 tankstellen["capacity_BAU"] = functions.capacity(
     tankstellen, when, bat_cap, max_power)
 tankstellen = functions.weighter(
@@ -75,7 +75,7 @@ tankstellen = functions.weighter(
 tankstellen["sufficiency_ZERO"] = functions.sufficiency(
     tankstellen, "E-Autos_charging_ZERO", "capacity_zero")
 
-# Scenario 4 - no gas cars are on road, 100% e-cars
+# Scenario 4 - no gas cars are on road, 100% e-cars. Range / capacity higher
 timeframe = "ZERO_E"
 consumption = 20
 winter = 0.8
@@ -83,7 +83,6 @@ when = 0.8
 driven = 25
 bat_cap = 150
 max_power = 200
-# Reichweite & bat_cap deutlich höher (20kWh / 100km => 200 kWh Kapa), Winter bessere Akku, gefahrene km höher (BFS +7% auf 2050)
 functions.charging(tankstellen, timeframe, consumption,
                    winter, when, driven, bat_cap)
 tankstellen["capacity_zero_e"] = functions.capacity(
@@ -93,23 +92,26 @@ tankstellen = functions.weighter(
 tankstellen["sufficiency_ZERO_E"] = functions.sufficiency(
     tankstellen, "E-Autos_charging_ZERO_E", "capacity_zero_e")
 
-"""
-# plot a graph where the sufficiency is subordinate to the pct of e cars, pass start, finish and step in percentage
-start, finish, step = 1,100,1
+""" Plot a graph where the sufficiency is subordinate to the pct of e cars, pass start, finish and step in percentage """
+start, finish, step = 1, 100, 1
 sufficiency_pct = functions.sufficiency_pct(
-    start, finish, step, tankstellen, cities, SZ, 25, 0.7, 0.8, 23.82, 70, 100)
+    start, finish, step, tankstellen, cities, 25, 0.7, 0.8, 23.82, 70, 100)
 sufficiency_pct_2 = functions.sufficiency_pct(
-    start, finish, step, tankstellen, cities, SZ, 25, 0.7, 0.8, 23.82, 70, 300)
+    start, finish, step, tankstellen, cities, 25, 0.7, 0.8, 23.82, 70, 300)
 sufficiency_pct_3 = functions.sufficiency_pct(
-    start, finish, step, tankstellen, cities, SZ, 15, 0.7, 0.8, 23.82, 70, 100)
+    start, finish, step, tankstellen, cities, 15, 0.7, 0.8, 23.82, 70, 100)
 sufficiency_pct_4 = functions.sufficiency_pct(
-    start, finish, step, tankstellen, cities, SZ, 25, 0.7, 0.95, 23.82, 70, 100)
+    start, finish, step, tankstellen, cities, 25, 0.7, 0.95, 23.82, 70, 100)
 
 # Plotting
-plt.plot(sufficiency_pct["pct_of_e_cars_on_roads"] * 100, sufficiency_pct["sufficiency"], label="Model Today")
-plt.plot(sufficiency_pct_2["pct_of_e_cars_on_roads"] * 100, sufficiency_pct_2["sufficiency"], label="300 kW Leistung schweizweit")
-plt.plot(sufficiency_pct_3["pct_of_e_cars_on_roads"] * 100, sufficiency_pct_3["sufficiency"], label="Verbrauch 15 kwh/100 km")
-plt.plot(sufficiency_pct_4["pct_of_e_cars_on_roads"] * 100, sufficiency_pct_4["sufficiency"], label="Laden erst bei 5%")
+plt.plot(sufficiency_pct["pct_of_e_cars_on_roads"] * 100,
+         sufficiency_pct["sufficiency"], label="Model Today")
+plt.plot(sufficiency_pct_2["pct_of_e_cars_on_roads"] * 100,
+         sufficiency_pct_2["sufficiency"], label="300 kW Leistung schweizweit")
+plt.plot(sufficiency_pct_3["pct_of_e_cars_on_roads"] * 100,
+         sufficiency_pct_3["sufficiency"], label="Verbrauch 15 kwh/100 km")
+plt.plot(sufficiency_pct_4["pct_of_e_cars_on_roads"] * 100,
+         sufficiency_pct_4["sufficiency"], label="Laden erst bei 5%")
 
 # Labelling
 plt.title("Vergleich Modell 'Today' mit Parametern")
@@ -119,34 +121,22 @@ plt.legend()
 
 plt.savefig("Data/Export/comparison_parameters_today.png", dpi=240)
 
-# print(tankstellen)
-# Je nach grösse dieser endgültigen Zahl kann man die Belastung der E-Tankstellen an jedem Standort berechnen (Gewichtung)
+# Short overview of the scenarios sufficient charging points
+print("sufficient t",
+      tankstellen[tankstellen.sufficiency_today <= 1].count().sufficiency_today)
+print("sufficient b",
+      tankstellen[tankstellen.sufficiency_BAU <= 1].count().sufficiency_BAU)
+print("sufficient z",
+      tankstellen[tankstellen.sufficiency_ZERO <= 1].count().sufficiency_ZERO)
+print("sufficient ze",
+      tankstellen[tankstellen.sufficiency_ZERO_E <= 1].count().sufficiency_ZERO_E)
 
-# Ansatz: Addiert alle Zahlen zusammen -> Dividiert die Zahl am Standort durch die gesamt Zahl -> Bekommt Gewichtung in Prozent über -> Kann somit alle E-Autos an den verschiedenen Tankstellen verteilen
-# Wieso nicht direkt die Zahlen entnehmen? Weil andere Faktoren die die Gewichtung beeinflussen noch hinzugefügt werden.
+# Get coordinates of sufficient charging points in BAU
+print(tankstellen[tankstellen.sufficiency_BAU < 1].geometry)
 
-# Man schaut wie lange die E-Autos jeweils diese E-Tankstellen besetzen. -> Je nach E-Tankstellen gibt es mehrere Ladestationen mit je unterschiedlichem Ladepotenzial (abhängig von kW), demzufolge hat jede Ladestation eine andere Kapazität
-# DBK = 70 #Durchschittliche Batteriekapazität kWh
-
-# Zusammen mit der Anzahl E-Autos die eine solche Tankstelle besetzen würden, mit deren Ladedauer und mit der Kapazität der E-Tankstellen kann man berechnen ob diese Tankstellen auch wirklich genug sind (Je nach Szenario).
-# E-Autos charging Today
-# E-Autos charging BAU
-# E-Autos charging ZERO
-# E-Autos charging ZERO E"""
-
-# print(tankstellen.sufficiency_today)
-print("sufficient t",tankstellen[tankstellen.sufficiency_today < 1].count().sufficiency_today)
-print("sufficient b",tankstellen[tankstellen.sufficiency_BAU < 1].count().sufficiency_BAU)
-print("sufficient z",tankstellen[tankstellen.sufficiency_ZERO < 1].count().sufficiency_ZERO)
-print("sufficient ze",tankstellen[tankstellen.sufficiency_ZERO_E < 1].count().sufficiency_ZERO_E)
-#print(max(tankstellen.sufficiency_ZERO_E))
-#print(tankstellen[tankstellen.sufficiency_BAU < 1].geometry)
-#print(tankstellen[tankstellen.sufficiency_model_1 >= 1].count())
-# print(tankstellen.sufficiency_model_1)
-# print(sum(tankstellen.sufficiency_ZERO_E)/237)
-
+# GeoJSON driver of geopandas does not support lists for export, drop it
 tankstellen.drop(["power"], inplace=True, axis=1)
 
+# Export as GeoJSON
 tankstellen.to_file(
     "./Data/Export/tankstellen_sufficency_models.geojson", driver="GeoJSON")
-
