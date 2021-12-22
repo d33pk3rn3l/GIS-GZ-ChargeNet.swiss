@@ -183,19 +183,19 @@ for i in range(len(tankstellen)):
     y = tankstellen['geometry'][i][0].x
     x = tankstellen['geometry'][i][0].y
     suff = tankstellen["sufficiency_BAU"][i]
-    folium.Marker([x,y], popup="Auslastung (eg. 0.5 => 50%): " + str(round(suff,3)), icon=folium.Icon(color=color_producer(suff), icon="flash", icon_color='#FFFFFF', prefix="fa")).add_to(tk_b)
+    folium.Marker([x,y], popup="Auslastung (eg. 0.5 => 50%): " + str(round(suff,3)), icon=folium.Icon(color=color_producer(suff), icon="flash", icon_color='#FFFFFF')).add_to(tk_b)
 
 for i in range(len(tankstellen)):
     y = tankstellen['geometry'][i][0].x
     x = tankstellen['geometry'][i][0].y
     suff = tankstellen["sufficiency_ZERO"][i]
-    folium.Marker([x,y], popup="Auslastung (eg. 0.5 => 50%): " + str(round(suff,3)), icon=folium.Icon(color=color_producer(suff), icon="flash", icon_color='#FFFFFF', prefix="fa")).add_to(tk_z)
+    folium.Marker([x,y], popup="Auslastung (eg. 0.5 => 50%): " + str(round(suff,3)), icon=folium.Icon(color=color_producer(suff), icon="flash", icon_color='#FFFFFF')).add_to(tk_z)
 
 for i in range(len(tankstellen)):
     y = tankstellen['geometry'][i][0].x
     x = tankstellen['geometry'][i][0].y
     suff = tankstellen["sufficiency_ZERO_E"][i]
-    folium.Marker([x,y], popup="Auslastung (eg. 0.5 => 50%): " + str(round(suff,3)), icon=folium.Icon(color=color_producer(suff), icon="flash", icon_color='#FFFFFF', prefix="fa")).add_to(tk_ze)
+    folium.Marker([x,y], popup="Auslastung (eg. 0.5 => 50%): " + str(round(suff,3)), icon=folium.Icon(color=color_producer(suff), icon="flash", icon_color='#FFFFFF')).add_to(tk_ze)
 
 
 x,y = [],[]
