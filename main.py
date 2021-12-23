@@ -1,7 +1,7 @@
 import pandas as pd
 import functions
 import map_maker
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 
 """ Prepare for calculation, initialize all data """
